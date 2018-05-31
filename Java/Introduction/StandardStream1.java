@@ -5,7 +5,7 @@ import java.util.*;
  * https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
  * @author Hasol
  */
-public class StandardStream {
+public class StandardStream1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         for (int i = 0 ; i < 3; i++)
