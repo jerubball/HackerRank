@@ -15,7 +15,7 @@ public class Substring {
         String s = in.next();
         int start = in.nextInt();
         int end = in.nextInt();
-        System.out.println (s.substring(start, end));
+        System.out.println(s.substring(start, end));
         in.close();
     }
 }
