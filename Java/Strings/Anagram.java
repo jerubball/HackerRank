@@ -28,6 +28,6 @@ public class Anagram {
         String a = scan.next();
         String b = scan.next();
         scan.close();
-        System.out.println( isAnagram(a, b) ? "Anagrams" : "Not Anagrams" );
+        System.out.println(isAnagram(a, b) ? "Anagrams" : "Not Anagrams");
     }
 }
