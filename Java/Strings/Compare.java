@@ -10,7 +10,7 @@ import java.util.regex.*;
  * @author Hasol
  */
 public class Compare {
-    public static String getSmallestAndLargest(String s, int k) {
+    static String getSmallestAndLargest(String s, int k) {
         String smallest = "";
         String largest = "";
         String[] str = new String[s.length()-k+1];
