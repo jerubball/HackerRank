@@ -1,1 +1,1 @@
-# Table of Contents for Algorithms
+# Table of Contents for [Algorithms](https://www.hackerrank.com/domains/algorithms)
