@@ -1,5 +1,4 @@
-## Table of Contents for Java/Introduction
-https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction
+## Table of Contents for Java/[Introduction](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction)
 
 | #  | File Name                                    | Title                           | Difficulty | Max Score |
 | -- | -------------------------------------------- | ------------------------------- | ---------- | --------- |
