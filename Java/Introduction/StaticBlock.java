@@ -22,7 +22,7 @@ public class StaticBlock {
             System.out.println("java.lang.Exception: breadth and height must be positive");
     }
     public static void main(String[] args) {
-        if(flag) {
+        if (flag) {
             int area = b * h;
             System.out.println(area);
         }
