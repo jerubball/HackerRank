@@ -16,8 +16,8 @@ public class IfElse {
     public static void main(String[] args) {
         int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-        String s = n % 2 == 1 || (n >= 6 && n <= 20) ? "Weird" : "Not Weird";
-        System.out.println (s);
+        String s = n%2 == 1 || (n>=6 && n<=20) ? "Weird" : "Not Weird";
+        System.out.println(s);
         scanner.close();
     }
 }
