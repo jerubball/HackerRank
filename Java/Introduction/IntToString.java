@@ -3,7 +3,7 @@ import java.util.*;
 import java.security.*;
 /**
  * HackerRank Java Introduction 11
- * https://www.hackerrank.com/challenges/java-int-to-string/copy-from/74050345
+ * https://www.hackerrank.com/challenges/java-int-to-string/problem
  * @author Hasol
  */
 public class IntToString {
