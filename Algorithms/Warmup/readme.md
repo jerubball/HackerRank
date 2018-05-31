@@ -1,2 +1,2 @@
-## Table of Contents for Algorithsm/Warmup
+## Table of Contents for Algorithms/Warmup
 
