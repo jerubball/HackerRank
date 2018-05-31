@@ -6,7 +6,7 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/java-regex/problem
  * @author Hasol
  */
-public class Regex1 {
+public class Regex {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (in.hasNext()) {
