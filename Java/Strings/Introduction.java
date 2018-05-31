@@ -9,13 +9,13 @@ import java.util.*;
 public class Introduction {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String A = sc.next();
-        String B = sc.next();
+        String a = sc.next();
+        String b = sc.next();
         //Enter your code here.
-        System.out.println (A.length() + B.length());
-        System.out.println (A.compareToIgnoreCase(B) > 0 ? "Yes" : "No");
-        A = A.substring(0,1).toUpperCase() + A.substring(1).toLowerCase();
-        B = B.substring(0,1).toUpperCase() + B.substring(1).toLowerCase();
-        System.out.println (A + " " + B);
+        System.out.println (a.length() + b.length());
+        System.out.println (a.compareToIgnoreCase(b) > 0 ? "Yes" : "No");
+        a = a.substring(0,1).toUpperCase() + a.substring(1).toLowerCase();
+        a = b.substring(0,1).toUpperCase() + b.substring(1).toLowerCase();
+        System.out.println (a + " " + b);
     }
 }
