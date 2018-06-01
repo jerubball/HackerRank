@@ -23,10 +23,8 @@ public class SimpleArraySum {
         int arCount = Integer.parseInt(scanner.nextLine().trim());
         int[] ar = new int[arCount];
         String[] arItems = scanner.nextLine().split(" ");
-        for (int arItr=0; arItr<arCount; arItr++) {
-            int arItem = Integer.parseInt(arItems[arItr].trim());
-            ar[arItr] = arItem;
-        }
+        for (int arItr=0; arItr<arCount; arItr++)
+            ar[arItr] = Integer.parseInt(arItems[arItr].trim());
         int result = simpleArraySum(ar);
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
