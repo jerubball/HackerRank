@@ -27,7 +27,7 @@ public class BigSum {
         long[] ar = new long[arCount];
         String[] arItems = scanner.nextLine().split(" ");
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-        for (int i = 0; i < arCount; i++)
+        for (int i=0; i<arCount; i++)
             ar[i] = Long.parseLong(arItems[i]);
         long result = aVeryBigSum(ar);
         bufferedWriter.write(String.valueOf(result));
