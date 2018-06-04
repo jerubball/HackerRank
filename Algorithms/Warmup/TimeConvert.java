@@ -16,7 +16,7 @@ public class TimeConvert {
         int h = Integer.parseInt(s.substring(0, 2)) % 12;
         String t = s.substring(2, s.length()-2);
         DecimalFormat f = new DecimalFormat("00");
-        return a == 'A' ? f.format(h) + t : f.format(h + 12) + t;
+        return a == 'A' ? f.format(h) + t : f.format(h+12) + t;
     }
     static final Scanner scan = new Scanner(System.in);
     public static void main(String[] args) throws IOException {
