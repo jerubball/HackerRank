@@ -15,11 +15,11 @@ public class AppleOrange {
     // Complete the countApplesAndOranges function below.
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {
         int x = 0, y = 0;
-        for (int i : apples)
-            if (a + i >= s && a + i <= t)
+        for (int i: apples)
+            if (a+i >= s && a+i <= t)
                 x++;
-        for (int j : oranges)
-            if (b + j >= s && b + j <= t)
+        for (int j: oranges)
+            if (b+j >= s && b+j <= t)
                 y++;
         System.out.println (x);
         System.out.println (y);
