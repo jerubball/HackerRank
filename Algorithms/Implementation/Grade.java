@@ -14,7 +14,7 @@ public class Grade {
     static int[] gradingStudents(int[] grades) {
         int[] s = new int[grades.length];
         for (int i=0; i<grades.length; i++)
-            s[i] = grades[i] >= 38 && grades[i]%5 > 2 ? grades[i] -grades[i]%5 +5 : grades[i];
+            s[i] = grades[i] >= 38 && grades[i] % 5 > 2 ? grades[i] - grades[i] % 5 + 5 : grades[i];
         return s;
     }
     static final Scanner scan = new Scanner(System.in);
