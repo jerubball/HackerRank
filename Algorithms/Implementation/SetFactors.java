@@ -18,10 +18,7 @@ public class SetFactors {
         long y = b[0];
         for (int j=1; j<b.length; j++)
             y = gcd (y, b[j]);
-        if (y % x != 0)
-            return 0;
-        else
-            return numFactors (y / x);
+        return y % x != 0 ? 0 : numFactors (y / x);
     }
     static long gcd (long a, long b) {
         return a < b ? gcd (b, a) : b != 0 ? gcd (b, a % b) : a;
