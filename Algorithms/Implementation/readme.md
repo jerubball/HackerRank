@@ -2,15 +2,15 @@
 
 | #  | File Name                                  | Title                   | Difficulty | Max Score |
 | -- | ------------------------------------------ | ----------------------- | ---------- | --------- |
-| 1  | [.java](.java)     | []        | Easy       |         |
-| 2  | [.java](.java)     | []        | Easy       |         |
-| 3  | [.java](.java)     | []        | Easy       |         |
-| 4  | [.java](.java)     | []        | Easy       |         |
-| 5  | [.java](.java)     | []        | Easy       |         |
-| 6  | [.java](.java)     | []        | Easy       |         |
-| 7  | [.java](.java)     | []        | Easy       |         |
-| 8  | [.java](.java)     | []        | Easy       |         |
-| 9  | [.java](.java)     | []        | Easy       |         |
+| 1  | [Grade.java](Grade.java)                   | [Grading Students]      | Easy       | 10        |
+| 2  | [AppleOrange.java](AppleOrange.java)       | [Apple and Orange]      | Easy       | 10        |
+| 3  | [Kangaroo.java](Kangaroo.java)             | [Kangaroo]              | Easy       | 10        |
+| 4  | [SetFactors.java](SetFactors.java)         | [Between Two Sets]      | Easy       | 10        |
+| 5  | [ScoreRecord.java](ScoreRecord.java)       | [Breaking the Records]  | Easy       | 10        |
+| 6  | [ChocolateBar.java](ChocolateBar.java)     | [Birthday Chocolate]    | Easy       | 10        |
+| 7  | [DivisibleSum.java](DivisibleSum.java)     | [Divisible Sum Pairs]   | Easy       | 10        |
+| 8  | [Birds.java](Birds.java)                   | [Migratory Birds]       | Easy       | 10        |
+| 9  | [ProgrammerDay.java](ProgrammerDay.java)   | [Day of the Programmer] | Easy       | 15        |
 | 10 | [.java](.java)     | []        | Easy       |         |
 | 11 | [.java](.java)     | []        | Easy       |         |
 | 12 | [.java](.java)     | []        | Easy       |         |
@@ -68,15 +68,15 @@
 | 64 | [.java](.java)     | []        | Easy       |         |
 | 65 | [.java](.java)     | []        | Easy       |         |
 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Grading Students]: https://www.hackerrank.com/challenges/grading/problem
+[Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
+[Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
+[Between Two Sets]: https://www.hackerrank.com/challenges/between-two-sets/problem
+[Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+[Birthday Chocolate]: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+[Divisible Sum Pairs]: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+[Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
+[Day of the Programmer]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 []: 
 []: 
 []: 
