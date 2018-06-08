@@ -23,7 +23,7 @@ public class MiniMaxSum {
                 y = a;
             s += a;
         }
-        System.out.println ((s - x) + " " + (s - y));
+        System.out.println ((s-x) + " " + (s-y));
     }
     static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
