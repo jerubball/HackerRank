@@ -17,7 +17,7 @@ public class Socks {
         Arrays.sort(ar);
         int c = 0;
         for (int i=1; i<n; i++)
-            if (ar[i-1] == ar[i]) {
+            if (ar[i] == ar[i-1]) {
                 c++;
                 i++;
             }
