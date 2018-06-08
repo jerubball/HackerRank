@@ -10,7 +10,7 @@ import java.util.regex.*;
  * @author Hasol
  */
 public class RestuarantBill {
-    public static double solve (int[] b, int k, int c) {
+    public static double solve(int[] b, int k, int c) {
         double r = 0;
         for (int a: b)
             r += a;
@@ -19,7 +19,7 @@ public class RestuarantBill {
     }
     public static void main(String[] args) {
         //Enter your code here. Read input from STDIN. Print output to STDOUT
-        Scanner s = new Scanner (System.in);
+        Scanner s = new Scanner(System.in);
         String s0 = s.nextLine().trim();
         String[] s1 = s0.split("\\s+");
         int n = Integer.parseInt(s1[0]);
@@ -32,7 +32,7 @@ public class RestuarantBill {
         s0 = s.nextLine().trim();
         s1 = s0.split("\\s+");
         int c = Integer.parseInt(s1[0]);
-        int result = (int) Math.round(solve (b, k, c));
+        int result = (int)Math.round(solve(b, k, c));
         if (result == 0)
             System.out.println ("Bon Appetit");
         else
