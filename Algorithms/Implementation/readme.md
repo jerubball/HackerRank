@@ -1,27 +1,27 @@
 ## Table of Contents for Algorithms/[Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation)
 
-| #  | File Name                                  | Title                   | Difficulty | Max Score |
-| -- | ------------------------------------------ | ----------------------- | ---------- | --------- |
-| 1  | [Grade.java](Grade.java)                   | [Grading Students]      | Easy       | 10        |
-| 2  | [AppleOrange.java](AppleOrange.java)       | [Apple and Orange]      | Easy       | 10        |
-| 3  | [Kangaroo.java](Kangaroo.java)             | [Kangaroo]              | Easy       | 10        |
-| 4  | [SetFactors.java](SetFactors.java)         | [Between Two Sets]      | Easy       | 10        |
-| 5  | [ScoreRecord.java](ScoreRecord.java)       | [Breaking the Records]  | Easy       | 10        |
-| 6  | [ChocolateBar.java](ChocolateBar.java)     | [Birthday Chocolate]    | Easy       | 10        |
-| 7  | [DivisibleSum.java](DivisibleSum.java)     | [Divisible Sum Pairs]   | Easy       | 10        |
-| 8  | [Birds.java](Birds.java)                   | [Migratory Birds]       | Easy       | 10        |
-| 9  | [ProgrammerDay.java](ProgrammerDay.java)   | [Day of the Programmer] | Easy       | 15        |
-| 10 | [.java](.java)     | []        | Easy       |         |
-| 11 | [.java](.java)     | []        | Easy       |         |
-| 12 | [.java](.java)     | []        | Easy       |         |
-| 13 | [.java](.java)     | []        | Easy       |         |
-| 14 | [.java](.java)     | []        | Easy       |         |
-| 15 | [.java](.java)     | []        | Easy       |         |
-| 16 | [.java](.java)     | []        | Easy       |         |
-| 17 | [.java](.java)     | []        | Easy       |         |
-| 18 | [.java](.java)     | []        | Easy       |         |
-| 19 | [.java](.java)     | []        | Easy       |         |
-| 20 | [.java](.java)     | []        | Easy       |         |
+| #  | File Name                                  | Title                      | Difficulty | Max Score |
+| -- | ------------------------------------------ | -------------------------- | ---------- | --------- |
+| 1  | [Grade.java](Grade.java)                   | [Grading Students]         | Easy       | 10        |
+| 2  | [AppleOrange.java](AppleOrange.java)       | [Apple and Orange]         | Easy       | 10        |
+| 3  | [Kangaroo.java](Kangaroo.java)             | [Kangaroo]                 | Easy       | 10        |
+| 4  | [SetFactors.java](SetFactors.java)         | [Between Two Sets]         | Easy       | 10        |
+| 5  | [ScoreRecord.java](ScoreRecord.java)       | [Breaking the Records]     | Easy       | 10        |
+| 6  | [ChocolateBar.java](ChocolateBar.java)     | [Birthday Chocolate]       | Easy       | 10        |
+| 7  | [DivisibleSum.java](DivisibleSum.java)     | [Divisible Sum Pairs]      | Easy       | 10        |
+| 8  | [Birds.java](Birds.java)                   | [Migratory Birds]          | Easy       | 10        |
+| 9  | [ProgrammerDay.java](ProgrammerDay.java)   | [Day of the Programmer]    | Easy       | 15        |
+| 10 | [RestuarantBill.java](RestuarantBill.java) | [Bon Appétit]              | Easy       | 10        |
+| 11 | [Socks.java](Socks.java)                   | [Sock Merchant]            | Easy       | 10        |
+| 12 | [LeastPage.java](LeastPage.java)           | [Drawing Book]             | Easy       | 10        |
+| 13 | [ValleyCount.java](ValleyCount.java)       | [Counting Valleys]         | Easy       | 15        |
+| 14 | [ElectronicShop.java](ElectronicShop.java) | [Electronics Shop]         | Easy       | 15        |
+| 15 | [CatMouse.java](CatMouse.java)             | [Cats and a Mouse]         | Easy       | 15        |
+| 16 | [MagicSquare.java](MagicSquare.java)       | [Forming a Magic Square]   | Medium     | 20        |
+| 17 | [PickNumber.java](PickNumber.java)         | [Picking Numbers]          | Easy       | 20        |
+| 18 | [Leaderboard.java](Leaderboard.java)       | [Climbing the Leaderboard] | Medium     | 20        |
+| 19 | [HurdleRace.java](HurdleRace.java)         | [The Hurdle Race]          | Easy       | 15        |
+| 20 | [HighlightText.java](HighlightText.java)   | [Designer PDF Viewer]      | Easy       | 20        |
 | 21 | [.java](.java)     | []        | Easy       |         |
 | 22 | [.java](.java)     | []        | Easy       |         |
 | 23 | [.java](.java)     | []        | Easy       |         |
@@ -77,17 +77,17 @@
 [Divisible Sum Pairs]: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 [Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
 [Day of the Programmer]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Bon Appétit]: https://www.hackerrank.com/challenges/bon-appetit/problem
+[Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
+[Drawing Book]: https://www.hackerrank.com/challenges/drawing-book/problem
+[Counting Valleys]: https://www.hackerrank.com/challenges/counting-valleys/problem
+[Electronics Shop]: https://www.hackerrank.com/challenges/electronics-shop/problem
+[Cats and a Mouse]: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+[Forming a Magic Square]: https://www.hackerrank.com/challenges/magic-square-forming/problem
+[Picking Numbers]: https://www.hackerrank.com/challenges/picking-numbers/problem
+[Climbing the Leaderboard]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+[The Hurdle Race]: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+[Designer PDF Viewer]: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 []: 
 []: 
 []: 
