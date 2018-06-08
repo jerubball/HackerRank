@@ -14,19 +14,19 @@ public class SetFactors {
     static int getTotalX(int[] a, int[] b) {
         long x = a[0];
         for (int i=1; i<a.length; i++)
-            x = lcm (x, a[i]);
+            x = lcm(x, a[i]);
         long y = b[0];
         for (int j=1; j<b.length; j++)
-            y = gcd (y, b[j]);
-        return y % x != 0 ? 0 : numFactors (y / x);
+            y = gcd(y, b[j]);
+        return y % x != 0 ? 0 : numFactors(y / x);
     }
-    static long gcd (long a, long b) {
-        return a < b ? gcd (b, a) : b != 0 ? gcd (b, a % b) : a;
+    static long gcd(long a, long b) {
+        return a < b ? gcd(b, a) : b != 0 ? gcd(b, a % b) : a;
     }
-    static long lcm (long a, long b) {
-        return a / gcd (a, b) * b;
+    static long lcm(long a, long b) {
+        return a / gcd(a, b) * b;
     }
-    static int numFactors (long a) {
+    static int numFactors(long a) {
         int c = 1;
         for (long i=1; i<a; i++)
             if (a % i == 0)
