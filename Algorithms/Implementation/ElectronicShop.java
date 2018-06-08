@@ -18,6 +18,19 @@ public class ElectronicShop {
                 z = b >= (t = k+d) && t > z ? t : z;
         return z;
     }
+    static int scanMax(int[] a, int[] b, int c) {
+        int p, q;
+        for (int i=a.length-1; i>=0; i--)
+            if (c >= (p = a[i] + b[0])) {
+                for (int j=1; j<b.length; j++) {
+                    if (c < (q = a[i] + b[j]))
+                        return p;
+                    p = q;
+                }
+                return p;
+            }
+        return -1;
+    }
     static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
