@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 /**
- * HackerRank Algorithms Implementation 
+ * HackerRank Algorithms Implementation 16
  * https://www.hackerrank.com/challenges/magic-square-forming/problem
  * @author Hasol
  */
