@@ -10,7 +10,7 @@ import java.util.regex.*;
  * @author Hasol
  */
 public class RestuarantBill {
-    public static double solve(int[] b, int k, int c) {
+    static double solve(int[] b, int k, int c) {
         double r = 0;
         for (int a: b)
             r += a;
@@ -27,7 +27,7 @@ public class RestuarantBill {
         int[] b = new int[n];
         s0 = s.nextLine().trim();
         s1 = s0.split("\\s+");
-        for (int i = 0; i < n; i++)
+        for (int i=0; i<n; i++)
             b[i] = Integer.parseInt(s1[i]);
         s0 = s.nextLine().trim();
         s1 = s0.split("\\s+");
