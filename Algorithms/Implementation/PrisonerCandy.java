@@ -14,7 +14,7 @@ import java.util.regex.*;
 public class PrisonerCandy {
     // Complete the saveThePrisoner function below.
     static int saveThePrisoner(int n, int m, int s) {
-        return (m +s -2) %n +1;
+        return (m+s-2)%n +1;
     }
     static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) throws IOException {
