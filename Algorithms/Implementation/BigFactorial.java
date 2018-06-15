@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 /**
- * HackerRank Algorithms Implementation 
+ * HackerRank Algorithms Implementation 30
  * https://www.hackerrank.com/challenges/extra-long-factorials/problem
  * @author Hasol
  */
