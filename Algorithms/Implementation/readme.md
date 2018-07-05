@@ -35,25 +35,25 @@
 | 31 | [StringAppendDelete.java](StringAppendDelete.java)   | [Append and Delete]                | Easy       | 20        |
 | 32 | [PerfectSquare.java](PerfectSquare.java)             | [Sherlock and Squares]             | Easy       | 20        |
 | 33 | [LibraryFine.java](LibraryFine.java)                 | [Library Fine]                     | Easy       | 15        |
-| 34 | [.java](.java)               | []              | Easy       |         |
-| 35 | [.java](.java)               | []              | Easy       |         |
-| 36 | [.java](.java)               | []              | Easy       |         |
-| 37 | [.java](.java)               | []              | Easy       |         |
-| 38 | [.java](.java)               | []              | Easy       |         |
-| 39 | [.java](.java)               | []              | Easy       |         |
-| 40 | [.java](.java)               | []              | Easy       |         |
-| 41 | [.java](.java)               | []              | Easy       |         |
-| 42 | [.java](.java)               | []              | Easy       |         |
-| 43 | [.java](.java)               | []              | Easy       |         |
-| 44 | [.java](.java)               | []              | Easy       |         |
-| 45 | [.java](.java)               | []              | Easy       |         |
-| 46 | [.java](.java)               | []              | Easy       |         |
-| 47 | [.java](.java)               | []              | Easy       |         |
-| 48 | [.java](.java)               | []              | Easy       |         |
-| 49 | [.java](.java)               | []              | Easy       |         |
-| 50 | [.java](.java)               | []              | Easy       |         |
-| 51 | [.java](.java)               | []              | Easy       |         |
-| 52 | [.java](.java)               | []              | Easy       |         |
+| 34 | [StickCut.java](StickCut.java)                       | [Cut the sticks]                   | Easy       | 25        |
+| 35 | [NonDivisibleSubset.java](NonDivisibleSubset.java)   | [Non-Divisible Subset]             | Medium     | 20        |
+| 36 | [RepeatedString.java](RepeatedString.java)           | [Repeated String]                  | Easy       | 20        |
+| 37 | [CloudJump2.java](CloudJump2.java)                   | [Jumping on the Clouds]            | Easy       | 20        |
+| 38 | [EqualizeArray.java](EqualizeArray.java)             | [Equalize the Array]               | Easy       | 20        |
+| 39 | [ChessQueen2.java](ChessQueen2.java)                 | [Queen's Attack II]                | Medium     | 30        |
+| 40 | [ICPCTeam.java](ICPCTeam.java)                       | [ACM ICPC Team]                    | Easy       | 25        |
+| 41 | [BirthdayGift.java](BirthdayGift.java)               | [Taum and B'day]                   | Easy       | 25        |
+| 42 | [BallSwap.java](BallSwap.java)                       | [Organizing Containers of Balls]   | Medium     | 30        |
+| 43 | [TextEncryption.java](TextEncryption.java)           | [Encryption]                       | Medium     | 30        |
+| 44 | [GreaterAnagram.java](GreaterAnagram.java)           | [Bigger is Greater]                | Medium     | 35        |
+| 45 | [KaprekarNumber.java](KaprekarNumber.java)           | [Modified Kaprekar Numbers]        | Easy       | 30        |
+| 46 | [BeautifulTriplet.java](BeautifulTriplet.java)       | [Beautiful Triplets]               | Easy       | 20        |
+| 47 | [MinimumDistance.java](MinimumDistance.java)         | [Minimum Distances]                | Easy       | 20        |
+| 48 | [HalloweenSale.java](HalloweenSale.java)             | [Halloween Sale]                   | Easy       | 20        |
+| 49 | [WordClock.java](WordClock.java)                     | [The Time in Words]                | Medium     | 25        |
+| 50 | [ChocolateStore.java](ChocolateStore.java)           | [Chocolate Feast]                  | Easy       | 25        |
+| 51 | [ServiceLane.java](ServiceLane.java)                 | [Service Lane]                     | Easy       | 20        |
+| 52 | [WorkbookPage.java](WorkbookPage.java)               | [Lisa's Workbook]                  | Easy       | 25        |
 | 53 | [.java](.java)               | []              | Easy       |         |
 | 54 | [.java](.java)               | []              | Easy       |         |
 | 55 | [.java](.java)               | []              | Easy       |         |
@@ -101,25 +101,25 @@
 [Append and Delete]: https://www.hackerrank.com/challenges/append-and-delete/problem
 [Sherlock and Squares]: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
 [Library Fine]: https://www.hackerrank.com/challenges/library-fine/problem
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Cut the sticks]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+[Non-Divisible Subset]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+[Repeated String]: https://www.hackerrank.com/challenges/repeated-string/problem
+[Jumping on the Clouds]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+[Equalize the Array]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
+[Queen's Attack II]: https://www.hackerrank.com/challenges/queens-attack-2/problem
+[ACM ICPC Team]: https://www.hackerrank.com/challenges/acm-icpc-team/problem
+[Taum and B'day]: https://www.hackerrank.com/challenges/taum-and-bday/problem
+[Organizing Containers of Balls]: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
+[Encryption]: https://www.hackerrank.com/challenges/encryption/problem
+[Bigger is Greater]: https://www.hackerrank.com/challenges/bigger-is-greater/problem
+[Modified Kaprekar Numbers]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
+[Beautiful Triplets]: https://www.hackerrank.com/challenges/beautiful-triplets/problem
+[Minimum Distances]: https://www.hackerrank.com/challenges/minimum-distances/problem
+[Halloween Sale]: https://www.hackerrank.com/challenges/halloween-sale/problem
+[The Time in Words]: https://www.hackerrank.com/challenges/the-time-in-words/problem
+[Chocolate Feast]: https://www.hackerrank.com/challenges/chocolate-feast/problem
+[Service Lane]: https://www.hackerrank.com/challenges/service-lane/problem
+[Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
 []: 
 []: 
 []: 
