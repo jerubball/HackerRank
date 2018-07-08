@@ -17,13 +17,10 @@ public class FlatlandDistance {
         Arrays.sort(c);
         int m = Integer.MIN_VALUE, d;
         for (int i=1; i<c.length; i++)
-            if ((d = c[i] - c[i-1]) > m)
-                m = d;
+            m = (d = c[i] - c[i-1]) > m ? d : m;
         m /= 2;
-        if (c[0] > m)
-            m = c[0];
-        if ((d = n - c[c.length-1] -1) > m)
-            m = d;
+        m = c[0] > m ? c[0] : m;
+        m = (d = n - c[c.length-1] -1) > m ? d : m;
         return m;
     }
     static final Scanner scanner = new Scanner(System.in);
