@@ -57,7 +57,7 @@
 | 53 | [FlatlandDistance.java](FlatlandDistance.java)       | [Flatland Space Stations]          | Easy       | 25        |
 | 54 | [DistributeRation.java](DistributeRation.java)       | [Fair Rations]                     | Easy       | 25        |
 | 55 | [CavityMap.java](CavityMap.java)                     | [Cavity Map]                       | Easy       | 30        |
-| 56 | [.java](.java)               | []              | Easy       |         |
+| 56 | [StonePermutation.java](StonePermutation.java)       | [Manasa and Stones]                | Easy       | 30        |
 | 57 | [.java](.java)               | []              | Easy       |         |
 | 58 | [.java](.java)               | []              | Easy       |         |
 | 59 | [.java](.java)               | []              | Easy       |         |
@@ -123,7 +123,7 @@
 [Flatland Space Stations]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
 [Fair Rations]: https://www.hackerrank.com/challenges/fair-rations/problem
 [Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
-[]: 
+[Manasa and Stones]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
 []: 
 []: 
 []: 
