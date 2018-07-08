@@ -54,9 +54,9 @@
 | 50 | [ChocolateStore.java](ChocolateStore.java)           | [Chocolate Feast]                  | Easy       | 25        |
 | 51 | [ServiceLane.java](ServiceLane.java)                 | [Service Lane]                     | Easy       | 20        |
 | 52 | [WorkbookPage.java](WorkbookPage.java)               | [Lisa's Workbook]                  | Easy       | 25        |
-| 53 | [.java](.java)               | []              | Easy       |         |
-| 54 | [.java](.java)               | []              | Easy       |         |
-| 55 | [.java](.java)               | []              | Easy       |         |
+| 53 | [FlatlandDistance.java](FlatlandDistance.java)       | [Flatland Space Stations]          | Easy       | 25        |
+| 54 | [DistributeRation.java](DistributeRation.java)       | [Fair Rations]                     | Easy       | 25        |
+| 55 | [CavityMap.java](CavityMap.java)                     | [Cavity Map]                       | Easy       | 30        |
 | 56 | [.java](.java)               | []              | Easy       |         |
 | 57 | [.java](.java)               | []              | Easy       |         |
 | 58 | [.java](.java)               | []              | Easy       |         |
@@ -120,9 +120,9 @@
 [Chocolate Feast]: https://www.hackerrank.com/challenges/chocolate-feast/problem
 [Service Lane]: https://www.hackerrank.com/challenges/service-lane/problem
 [Lisa's Workbook]: https://www.hackerrank.com/challenges/lisa-workbook/problem
-[]: 
-[]: 
-[]: 
+[Flatland Space Stations]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
+[Fair Rations]: https://www.hackerrank.com/challenges/fair-rations/problem
+[Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
 []: 
 []: 
 []: 
