@@ -58,7 +58,7 @@
 | 54 | [DistributeRation.java](DistributeRation.java)       | [Fair Rations]                     | Easy       | 25        |
 | 55 | [CavityMap.java](CavityMap.java)                     | [Cavity Map]                       | Easy       | 30        |
 | 56 | [StonePermutation.java](StonePermutation.java)       | [Manasa and Stones]                | Easy       | 30        |
-| 57 | [.java](.java)               | []              | Easy       |         |
+| 57 | [GridTextSearch.java](GridTextSearch.java)           | [The Grid Search]                  | Medium     | 30        |
 | 58 | [.java](.java)               | []              | Easy       |         |
 | 59 | [.java](.java)               | []              | Easy       |         |
 | 60 | [.java](.java)               | []              | Easy       |         |
@@ -124,7 +124,7 @@
 [Fair Rations]: https://www.hackerrank.com/challenges/fair-rations/problem
 [Cavity Map]: https://www.hackerrank.com/challenges/cavity-map/problem
 [Manasa and Stones]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
-[]: 
+[The Grid Search]: https://www.hackerrank.com/challenges/the-grid-search/problem
 []: 
 []: 
 []: 
