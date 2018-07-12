@@ -1,3 +1,4 @@
+package Algorithms.Implementation;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +7,11 @@ import java.util.*;
 import java.util.function.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
-
+/**
+ * HackerRank Algorithms Implementation 
+ * 
+ * @author Hasol
+ */
 public class BomberMan {
 
     // Complete the bomberMan function below.
