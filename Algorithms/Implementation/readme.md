@@ -61,8 +61,8 @@
 | 57 | [GridTextSearch.java](GridTextSearch.java)           | [The Grid Search]                  | Medium     | 30        |
 | 58 | [HappyLadybug.java](HappyLadybug.java)               | [Happy Ladybugs]                   | Easy       | 30        |
 | 59 | [StrangeCounter.java](StrangeCounter.java)           | [Strange Counter]                  | Easy       | 30        |
-| 60 | [.java](.java)               | []              | Easy       |         |
-| 61 | [.java](.java)               | []              | Easy       |         |
+| 60 | [SurfaceArea.java](SurfaceArea.java)                 | [3D Surface Area]                  | Medium     | 30        |
+| 61 | [AbsolutePermutation.java](AbsolutePermutation.java) | [Absolute Permutation]             | Medium     | 40        |
 | 62 | [.java](.java)               | []              | Easy       |         |
 | 63 | [.java](.java)               | []              | Easy       |         |
 | 64 | [.java](.java)               | []              | Easy       |         |
@@ -127,8 +127,8 @@
 [The Grid Search]: https://www.hackerrank.com/challenges/the-grid-search/problem
 [Happy Ladybugs]: https://www.hackerrank.com/challenges/happy-ladybugs/problem
 [Strange Counter]: https://www.hackerrank.com/challenges/strange-code/problem
-[]: 
-[]: 
+[3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
+[Absolute Permutation]: https://www.hackerrank.com/challenges/absolute-permutation/problem
 []: 
 []: 
 []: 
