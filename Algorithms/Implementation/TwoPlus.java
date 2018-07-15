@@ -26,7 +26,8 @@ public class TwoPlus {
         for (int i=0, d=0; i<g.length; i++)
             for (int j=0; j<g[i].length; j++, d=0)
                 if (g[i][j] == 'G')
-                    while (i-d>=0 && g[i-d][j]=='G' && i+d<g.length && g[i+d][j]=='G' && j-d>=0 && g[i][j-d]=='G' && j+d<g[i].length && g[i][j+d]=='G')
+                    while (i-d>=0 && g[i-d][j]=='G' && i+d<g.length && g[i+d][j]=='G' && 
+                           j-d>=0 && g[i][j-d]=='G' && j+d<g[i].length && g[i][j+d]=='G')
                         l[d++].add(new IntPair(i, j));
         // Order search space by product.
         ArrayList<IntPair> p = new ArrayList<>();
@@ -39,7 +40,8 @@ public class TwoPlus {
         for (IntPair c: p)
             for (IntPair a: l[c.x])
                 for (IntPair b: l[c.y])
-                    if ((x = Math.abs(a.x-b.x)) > (t = c.x+c.y) || (y = Math.abs(a.y-b.y)) > t || x > (u = Math.max(c.x, c.y)) && y != 0 || y > u && x != 0 || x > (v = Math.min(c.x, c.y)) && y > v)
+                    if ((x = Math.abs(a.x-b.x)) > (t = c.x+c.y) || (y = Math.abs(a.y-b.y)) > t || 
+                        x > (u = Math.max(c.x, c.y)) && y != 0 || y > u && x != 0 || x > (v = Math.min(c.x, c.y)) && y > v)
                         return IntPair.PlusComparator.compute(c);
         return 0;
     }
@@ -50,7 +52,8 @@ public class TwoPlus {
         int p = 1;
         for (int i=1, d=1; i<g.length-1; i++)
             for (int j=1; j<g[i].length-1; j++, d=1)
-                while (i-d>=0 && g[i-d][j]=='G' && i+d<g.length && g[i+d][j]=='G' && j-d>=0 && g[i][j-d]=='G' && j+d<g[i].length && g[i][j+d]=='G')
+                while (i-d>=0 && g[i-d][j]=='G' && i+d<g.length && g[i+d][j]=='G' && 
+                       j-d>=0 && g[i][j-d]=='G' && j+d<g[i].length && g[i][j+d]=='G')
                     p *= 4*(d++)+1;
         return p;
     }
