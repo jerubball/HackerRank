@@ -1,0 +1,30 @@
+package 
+/**
+ * HackerRank 
+ * 
+ * @author Hasol
+ */
+
+| #  | File Name                                            | Title                              | Difficulty | Max Score |
+| -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+|  | [.java](.java)               | []              | Easy       |         |
+
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
