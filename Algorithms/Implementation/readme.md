@@ -63,10 +63,11 @@
 | 59 | [StrangeCounter.java](StrangeCounter.java)           | [Strange Counter]                  | Easy       | 30        |
 | 60 | [SurfaceArea.java](SurfaceArea.java)                 | [3D Surface Area]                  | Medium     | 30        |
 | 61 | [AbsolutePermutation.java](AbsolutePermutation.java) | [Absolute Permutation]             | Medium     | 40        |
-| 62 | [.java](.java)               | []              | Easy       |         |
-| 63 | [.java](.java)               | []              | Easy       |         |
-| 64 | [.java](.java)               | []              | Easy       |         |
+| 62 | [BomberMan.java](BomberMan.java)                     | [The Bomberman Game]               | Medium     | 40        |
+| 63 | [TwoPlus.java](TwoPlus.java)                         | [Ema's Supercomputer]              | Medium     | 40        |
+| 64 | [ParityPermutation.java](ParityPermutation.java)     | [Larry's Array]                    | Medium     | 40        |
 | 65 | [.java](.java)               | []              | Easy       |         |
+| 66 | [.java](.java)               | []              | Easy       |         |
 
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
@@ -129,7 +130,8 @@
 [Strange Counter]: https://www.hackerrank.com/challenges/strange-code/problem
 [3D Surface Area]: https://www.hackerrank.com/challenges/3d-surface-area/problem
 [Absolute Permutation]: https://www.hackerrank.com/challenges/absolute-permutation/problem
-[]: 
-[]: 
+[The Bomberman Game]: https://www.hackerrank.com/challenges/bomber-man/problem
+[Ema's Supercomputer]: https://www.hackerrank.com/challenges/two-pluses/problem
+[Larry's Array]: https://www.hackerrank.com/challenges/larrys-array/problem
 []: 
 []: 
