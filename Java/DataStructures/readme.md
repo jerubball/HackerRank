@@ -2,10 +2,10 @@
 
 | #  | File Name                                            | Title                              | Difficulty | Max Score |
 | -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
-| 1  | [.java](.java)               | []              | Easy       | 5         |
-| 2  | [.java](.java)               | []              | Easy       | 10        |
-| 3  | [.java](.java)               | []              | Easy       | 10        |
-| 4  | [.java](.java)               | []              | Easy       | 10        |
+| 1  | [PrimitiveArray.java](PrimitiveArray.java)           | [Java 1D Array]                    | Easy       | 5         |
+| 2  | [MatrixHourglass.java](MatrixHourglass.java)         | [Java 2D Array]                    | Easy       | 10        |
+| 3  | [NegativeSubarray.java](NegativeSubarray.java)       | [Java Subarray]                    | Easy       | 10        |
+| 4  | [ArrayLookup.java](ArrayLookup.java)                 | [Java Arraylist]                   | Easy       | 10        |
 | 5  | [.java](.java)               | []              | Medium     | 25        |
 | 6  | [.java](.java)               | []              | Easy       | 15        |
 | 7  | [.java](.java)               | []              | Easy       | 10        |
@@ -18,10 +18,10 @@
 | 14 | [.java](.java)               | []              | Easy       | 20        |
 | 15 | [.java](.java)               | []              | Medium     | 20        |
 
-[]: 
-[]: 
-[]: 
-[]: 
+[Java 1D Array]: https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
+[Java 2D Array]: https://www.hackerrank.com/challenges/java-2d-array/problem
+[Java Subarray]: https://www.hackerrank.com/challenges/java-negative-subarray/problem
+[Java Arraylist]: https://www.hackerrank.com/challenges/java-arraylist/problem
 []: 
 []: 
 []: 
