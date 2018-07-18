@@ -1,5 +1,5 @@
-import java.util.*;
 package Java.DataStructures;
+import java.util.*;
 /**
  * HackerRank Java Data_Structures 1
  * https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
