@@ -66,8 +66,8 @@
 | 62 | [BomberMan.java](BomberMan.java)                     | [The Bomberman Game]               | Medium     | 40        |
 | 63 | [TwoPlus.java](TwoPlus.java)                         | [Ema's Supercomputer]              | Medium     | 40        |
 | 64 | [ParityPermutation.java](ParityPermutation.java)     | [Larry's Array]                    | Medium     | 40        |
-| 65 | [.java](.java)               | []              | Easy       |         |
-| 66 | [.java](.java)               | []              | Easy       |         |
+| 65 | [OneStepSort.java](OneStepSort.java)                 | [Almost Sorted]                    | Medium     | 50        |
+| 66 | [MatrixLayerRotation.java](MatrixLayerRotation.java) | [Matrix Layer Rotation]            | Hard       | 80        |
 
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
@@ -133,5 +133,5 @@
 [The Bomberman Game]: https://www.hackerrank.com/challenges/bomber-man/problem
 [Ema's Supercomputer]: https://www.hackerrank.com/challenges/two-pluses/problem
 [Larry's Array]: https://www.hackerrank.com/challenges/larrys-array/problem
-[]: 
-[]: 
+[Almost Sorted]: https://www.hackerrank.com/challenges/almost-sorted/problem
+[Matrix Layer Rotation]: https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
