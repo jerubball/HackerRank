@@ -6,14 +6,14 @@
 | 2  | [MatrixHourglass.java](MatrixHourglass.java)         | [Java 2D Array]                    | Easy       | 10        |
 | 3  | [NegativeSubarray.java](NegativeSubarray.java)       | [Java Subarray]                    | Easy       | 10        |
 | 4  | [ArrayLookup.java](ArrayLookup.java)                 | [Java Arraylist]                   | Easy       | 10        |
-| 5  | [.java](.java)               | []              | Medium     | 25        |
-| 6  | [.java](.java)               | []              | Easy       | 15        |
-| 7  | [.java](.java)               | []              | Easy       | 10        |
-| 8  | [.java](.java)               | []              | Medium     | 20        |
-| 9  | [.java](.java)               | []              | Easy       | 10        |
-| 10 | [.java](.java)               | []              | Easy       | 15        |
-| 11 | [.java](.java)               | []              | Medium     | 10        |
-| 12 | [.java](.java)               | []              | Easy       | 10        |
+| 5  | [ArrayLeap.java](ArrayLeap.java)                     | [Java 1D Array (Part 2)]           | Medium     | 25        |
+| 6  | [ListOperation.java](ListOperation.java)             | [Java List]                        | Easy       | 15        |
+| 7  | [Phonebook.java](Phonebook.java)                     | [Java Map]                         | Easy       | 10        |
+| 8  | [BalancedParentheses.java](BalancedParentheses.java) | [Java Stack]                       | Medium     | 20        |
+| 9  | [UniquePair.java](UniquePair.java)                   | [Java Hashset]                     | Easy       | 10        |
+| 10 | [GenericArray.java](GenericArray.java)               | [Java Generics]                    | Easy       | 15        |
+| 11 | [PlayerSort.java](PlayerSort.java)                   | [Java Comparator]                  | Medium     | 10        |
+| 12 | [StudentSort.java](StudentSort.java)                 | [Java Sort]                        | Easy       | 10        |
 | 13 | [.java](.java)               | []              | Medium     | 20        |
 | 14 | [.java](.java)               | []              | Easy       | 20        |
 | 15 | [.java](.java)               | []              | Medium     | 20        |
@@ -22,14 +22,14 @@
 [Java 2D Array]: https://www.hackerrank.com/challenges/java-2d-array/problem
 [Java Subarray]: https://www.hackerrank.com/challenges/java-negative-subarray/problem
 [Java Arraylist]: https://www.hackerrank.com/challenges/java-arraylist/problem
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Java 1D Array (Part 2)]: https://www.hackerrank.com/challenges/java-1d-array/problem
+[Java List]: https://www.hackerrank.com/challenges/java-list/problem
+[Java Map]: https://www.hackerrank.com/challenges/phone-book/problem
+[Java Stack]: https://www.hackerrank.com/challenges/java-stack/problem
+[Java Hashset]: https://www.hackerrank.com/challenges/java-hashset/problem
+[Java Generics]: https://www.hackerrank.com/challenges/java-generics/problem
+[Java Comparator]: https://www.hackerrank.com/challenges/java-comparator/problem
+[Java Sort]: https://www.hackerrank.com/challenges/java-sort/problem
 []: 
 []: 
 []: 
