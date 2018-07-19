@@ -1,2 +1,4 @@
 # HackerRank
-solutions for HackerRank problems
+Solutions for HackerRank problems
+
+User Profile: [jerubball](https://www.hackerrank.com/jerubball)
