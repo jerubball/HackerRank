@@ -14,7 +14,7 @@
 | 10 | [GenericArray.java](GenericArray.java)               | [Java Generics]                    | Easy       | 15        |
 | 11 | [PlayerSort.java](PlayerSort.java)                   | [Java Comparator]                  | Medium     | 10        |
 | 12 | [StudentSort.java](StudentSort.java)                 | [Java Sort]                        | Easy       | 10        |
-| 13 | [.java](.java)               | []              | Medium     | 20        |
+| 13 | [UniqueSubarray.java](UniqueSubarray.java)           | [Java Dequeue]                     | Medium     | 20        |
 | 14 | [.java](.java)               | []              | Easy       | 20        |
 | 15 | [.java](.java)               | []              | Medium     | 20        |
 
@@ -30,6 +30,6 @@
 [Java Generics]: https://www.hackerrank.com/challenges/java-generics/problem
 [Java Comparator]: https://www.hackerrank.com/challenges/java-comparator/problem
 [Java Sort]: https://www.hackerrank.com/challenges/java-sort/problem
-[]: 
+[Java Dequeue]: https://www.hackerrank.com/challenges/java-dequeue/problem
 []: 
 []: 
