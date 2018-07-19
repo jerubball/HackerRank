@@ -15,8 +15,8 @@
 | 11 | [PlayerSort.java](PlayerSort.java)                   | [Java Comparator]                  | Medium     | 10        |
 | 12 | [StudentSort.java](StudentSort.java)                 | [Java Sort]                        | Easy       | 10        |
 | 13 | [UniqueSubarray.java](UniqueSubarray.java)           | [Java Dequeue]                     | Medium     | 20        |
-| 14 | [.java](.java)               | []              | Easy       | 20        |
-| 15 | [.java](.java)               | []              | Medium     | 20        |
+| 14 | [BitSet.java](BitSet.java)                           | [Java BitSet]                      | Easy       | 20        |
+| 15 | [StudentQueue.java](StudentQueue.java)               | [Java Priority Queue]              | Medium     | 20        |
 
 [Java 1D Array]: https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
 [Java 2D Array]: https://www.hackerrank.com/challenges/java-2d-array/problem
@@ -31,5 +31,5 @@
 [Java Comparator]: https://www.hackerrank.com/challenges/java-comparator/problem
 [Java Sort]: https://www.hackerrank.com/challenges/java-sort/problem
 [Java Dequeue]: https://www.hackerrank.com/challenges/java-dequeue/problem
-[]: 
-[]: 
+[Java BitSet]: https://www.hackerrank.com/challenges/java-bitset/problem
+[Java Priority Queue]: https://www.hackerrank.com/challenges/java-priority-queue/problem
