@@ -32,7 +32,7 @@ public class NestedClass {
 }
 // This class prevents exit(0)
 class DoNotTerminate { 
-    static class ExitTrappedException extends SecurityException {
+    public static class ExitTrappedException extends SecurityException {
         private static final long serialVersionUID = 1L;
     }
     public static void forbidExit() {
