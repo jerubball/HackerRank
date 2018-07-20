@@ -8,10 +8,10 @@
 | 4  | [PrimeCheck.java](PrimeCheck.java)                   | [Prime Checker]                    | Medium     | 25        |
 | 5  | [CreateFood.java](CreateFood.java)                   | [Java Factory Pattern]             | Easy       | 15        |
 | 6  | [HelloSingleton.java](HelloSingleton.java)           | [Java Singleton Pattern]           | Easy       | 15        |
-| 7  | [.java](.java)               | []              | Medium     | 40        |
-| 8  | [.java](.java)               | []              | Medium     | 25        |
-| 9  | [.java](.java)               | []              | Easy       | 20        |
-| 10 | [.java](.java)               | []              | Medium     | 30        |
+| 7  | [TreeVisitor.java](TreeVisitor.java)                 | [Java Visitor Pattern]             | Medium     | 40        |
+| 8  | [FamilyAnnotation.java](FamilyAnnotation.java)       | [Java Annotations]                 | Medium     | 25        |
+| 9  | [NationalFlower.java](NationalFlower.java)           | [Covariant Return Types]           | Easy       | 20        |
+| 10 | [LambdaMath.java](LambdaMath.java)                   | [Java Lambda Expressions]          | Medium     | 30        |
 | 11 | [.java](.java)               | []              | Medium     | 30        |
 | 12 | [.java](.java)               | []              | Medium     | 30        |
 
@@ -21,9 +21,9 @@
 [Prime Checker]: https://www.hackerrank.com/challenges/prime-checker/problem
 [Java Factory Pattern]: https://www.hackerrank.com/challenges/java-factory/problem
 [Java Singleton Pattern]: https://www.hackerrank.com/challenges/java-singleton/problem
-[]: 
-[]: 
-[]: 
-[]: 
+[Java Visitor Pattern]: https://www.hackerrank.com/challenges/java-vistor-pattern/problem
+[Java Annotations]: https://www.hackerrank.com/challenges/java-annotations/problem
+[Covariant Return Types]: https://www.hackerrank.com/challenges/java-covariance/problem
+[Java Lambda Expressions]: https://www.hackerrank.com/challenges/java-lambda-expressions/problem
 []: 
 []: 
