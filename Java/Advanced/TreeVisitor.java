@@ -5,7 +5,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 /**
- * HackerRank Java Advanced 
+ * HackerRank Java Advanced 7
  * https://www.hackerrank.com/challenges/java-vistor-pattern/problem
  * @author Hasol
  */
