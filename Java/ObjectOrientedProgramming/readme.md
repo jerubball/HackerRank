@@ -9,7 +9,7 @@
 | 5  | [SportsSoccer.java](SportsSoccer.java)               | [Java Method Overriding]                   | Easy       | 10        |
 | 6  | [Cycle.java](Cycle.java)                             | [Java Method Overriding 2 (Super Keyword)] | Easy       | 10        |
 | 7  | [InstanceCount.java](InstanceCount.java)             | [Java Instanceof keyword]                  | Easy       | 10        |
-| 8  | [StringFilter.java](StringFilterjava)                | [Java Iterator]                            | Easy       | 15        |
+| 8  | [StringFilter.java](StringFilter.java)               | [Java Iterator]                            | Easy       | 15        |
 
 [Java Inheritance I]: https://www.hackerrank.com/challenges/java-inheritance-1/problem
 [Java Inheritance II]: https://www.hackerrank.com/challenges/java-inheritance-2/problem
