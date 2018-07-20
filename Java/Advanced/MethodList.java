@@ -5,7 +5,6 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-package Java.Advanced;
 /**
  * HackerRank Java Advanced 2
  * https://www.hackerrank.com/challenges/java-reflection-attributes/problem
