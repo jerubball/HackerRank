@@ -7,7 +7,7 @@
 | 3  | [NestedClass.java](NestedClass.java)                 | [Can You Access?]                  | Medium     | 15        |
 | 4  | [PrimeCheck.java](PrimeCheck.java)                   | [Prime Checker]                    | Medium     | 25        |
 | 5  | [CreateFood.java](CreateFood.java)                   | [Java Factory Pattern]             | Easy       | 15        |
-| 6  | [.java](.java)               | []              | Easy       | 15        |
+| 6  | [HelloSingleton.java](HelloSingleton.java)           | [Java Singleton Pattern]           | Easy       | 15        |
 | 7  | [.java](.java)               | []              | Medium     | 40        |
 | 8  | [.java](.java)               | []              | Medium     | 25        |
 | 9  | [.java](.java)               | []              | Easy       | 20        |
@@ -20,7 +20,7 @@
 [Can You Access?]: https://www.hackerrank.com/challenges/can-you-access/problem
 [Prime Checker]: https://www.hackerrank.com/challenges/prime-checker/problem
 [Java Factory Pattern]: https://www.hackerrank.com/challenges/java-factory/problem
-[]: 
+[Java Singleton Pattern]: https://www.hackerrank.com/challenges/java-singleton/problem
 []: 
 []: 
 []: 
