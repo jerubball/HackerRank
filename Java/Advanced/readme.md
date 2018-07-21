@@ -13,7 +13,7 @@
 | 9  | [NationalFlower.java](NationalFlower.java)     | [Covariant Return Types]         | Easy       | 20        |
 | 10 | [LambdaMath.java](LambdaMath.java)             | [Java Lambda Expressions]        | Medium     | 30        |
 | 11 | [MD5.java](MD5.java)                           | [Java MD5]                       | Medium     | 30        |
-| 12 | [.java](.java)                                 | [Java SHA-256]                   | Medium     | 30        |
+| 12 | [SHA256.java](SHA256.java)                                 | [Java SHA-256]                   | Medium     | 30        |
 
 [Java Varargs - Simple Addition]: https://www.hackerrank.com/challenges/simple-addition-varargs/problem
 [Java Reflection - Attributes]: https://www.hackerrank.com/challenges/java-reflection-attributes/problem
