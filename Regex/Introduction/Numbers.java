@@ -12,7 +12,7 @@ import java.util.regex.*;
 public class Numbers {
     public static void main(String[] args) {
         RegexTest tester = new RegexTest();
-        tester.checker("\\d\\d\\D\\d\\d\\D\\d\\d\\d\\d");
+        tester.checker("(\\d{2}\\D){2}\\d{4}");
     }
 }
 class RegexTest {
