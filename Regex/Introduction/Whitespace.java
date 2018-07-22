@@ -12,7 +12,7 @@ import java.util.regex.*;
 public class Whitespace {
     public static void main(String[] args) {
         RegexTest tester = new RegexTest();
-        tester.checker("\\S\\S\\s\\S\\S\\s\\S\\S");
+        tester.checker("(\\S{2}\\s){2}\\S{2}");
     }
 }
 class RegexTest {
