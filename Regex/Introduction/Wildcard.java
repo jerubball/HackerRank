@@ -12,7 +12,7 @@ import java.util.regex.*;
 public class Wildcard {
     public static void main(String[] args) {
         Tester tester = new Tester();
-        tester.check("...\\....\\....\\...."); 
+        tester.check("(.{3}\\.){3}.{3}"); 
     }
 }
 class Tester {
