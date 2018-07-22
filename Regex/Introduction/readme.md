@@ -1,4 +1,4 @@
-# Table of contents for Regex/[Introduction](https://www.hackerrank.com/domains/regex?filters%5Bsubdomains%5D%5B%5D=re-introduction)
+# Table of Contents for Regex/[Introduction](https://www.hackerrank.com/domains/regex?filters%5Bsubdomains%5D%5B%5D=re-introduction)
 
 | #  | File Name                            | Title                                            | Difficulty | Max Score |
 | -- | ------------------------------------ | ------------------------------------------------ | ---------- | --------- |
