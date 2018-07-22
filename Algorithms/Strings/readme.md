@@ -1,53 +1,55 @@
+## Table of Contents for Algorithms/[Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings)
+
 | #  | File Name                                            | Title                           | Difficulty | Max Score |
 | -- | ---------------------------------------------------- | ------------------------------- | ---------- | --------- |
-| 1  | [.java].java                                         | [Super Reduced String]          | Easy       | 10        |
-| 2  | [.java].java                                         | [CamelCase]                     | Easy       | 15        |
-| 3  | [.java].java                                         | [Strong Password]               | Easy       | 15        |
-| 4  | [.java].java                                         | [Two Characters]                | Easy       | 20        |
-| 5  | [.java].java                                         | [Caesar Cipher]                 | Easy       | 15        |
-| 6  | [.java].java                                         | [Mars Exploration]              | Easy       | 15        |
-| 7  | [.java].java                                         | [HackerRank in a String!]       | Easy       | 20        |
-| 8  | [.java].java                                         | [Pangrams]                      | Easy       | 20        |
-| 9  | [.java].java                                         | [Weighted Uniform Strings]      | Easy       | 20        |
-| 10 | [.java].java                                         | [Separate the Numbers]          | Easy       | 20        |
-| 11 | [.java].java                                         | [Funny String]                  | Easy       | 25        |
-| 12 | [.java].java                                         | [Gemstones]                     | Easy       | 20        |
-| 13 | [.java].java                                         | [Alternating Characters]        | Easy       | 20        |
-| 14 | [.java].java                                         | [Beautiful Binary String]       | Easy       | 20        |
-| 15 | [.java].java                                         | [The Love-Letter Mystery]       | Easy       | 20        |
-| 16 | [.java].java                                         | [Determining DNA Health]        | Hard       | 50        |
-| 17 | [.java].java                                         | [Palindrome Index]              | Easy       | 25        |
-| 18 | [.java].java                                         | [Anagram]                       | Easy       | 25        |
-| 19 | [.java].java                                         | [Making Anagrams]               | Easy       | 30        |
-| 20 | [.java].java                                         | [Game of Thrones - I]           | Easy       | 30        |
-| 21 | [.java].java                                         | [Two Strings]                   | Easy       | 25        |
-| 22 | [.java].java                                         | [String Construction]           | Easy       | 25        |
-| 23 | [.java].java                                         | [Sherlock and the Valid String] | Medium     | 35        |
-| 24 | [.java].java                                         | [Highest Value Palindrome]      | Medium     | 30        |
-| 25 | [.java].java                                         | [Maximum Palindromes]           | Medium     | 40        |
-| 26 | [.java].java                                         | [Sherlock and Anagrams]         | Medium     | 50        |
-| 27 | [.java].java                                         | [Common Child]                  | Medium     | 60        |
-| 28 | [.java].java                                         | [Bear and Steady Gene]          | Medium     | 50        |
-| 29 | [.java].java                                         | [Morgan and a String]           | Expert     | 100       |
-| 30 | [.java].java                                         | [Count Strings]                 | Hard       | 80        |
-| 31 | [.java].java                                         | [String Function Calculation]   | Advanced   | 80        |
-| 32 | [.java].java                                         | [Build a Palindrome]            | Advanced   | 80        |
-| 33 | [.java].java                                         | [Build a String]                | Hard       | 80        |
-| 34 | [.java].java                                         | [Gridland Provinces]            | Hard       | 80        |
-| 35 | [.java].java                                         | [Cards Permutation]             | Expert     | 85        |
-| 36 | [.java].java                                         | [Ashton and String]             | Advanced   | 100       |
-| 37 | [.java].java                                         | [String Similarity]             | Expert     | 100       |
-| 38 | [.java].java                                         | [Super Functional Strings]      | Advanced   | 80        |
-| 39 | [.java].java                                         | [Circular Palindromes]          | Advanced   | 120       |
-| 40 | [.java].java                                         | [Similar Strings]               | Advanced   | 85        |
-| 41 | [.java].java                                         | [Save Humanity]                 | Expert     | 100       |
-| 42 | [.java].java                                         | [Find Strings]                  | Expert     | 100       |
-| 43 | [.java].java                                         | [Palindromic Border]            | Expert     | 100       |
-| 44 | [.java].java                                         | [Two Two]                       | Advanced   | 150       |
-| 45 | [.java].java                                         | [Two Strings Game]              | Expert     | 100       |
-| 46 | [.java].java                                         | [Letter Islands]                | Expert     | 100       |
-| 47 | [.java].java                                         | [Pseudo-Isomorphic Substrings]  | Expert     | 100       |
-| 48 | [.java].java                                         | [How Many Substrings?]          | Expert     | 100       |
+| 1  | [.java](.java)                                       | [Super Reduced String]          | Easy       | 10        |
+| 2  | [.java](.java)                                       | [CamelCase]                     | Easy       | 15        |
+| 3  | [.java](.java)                                       | [Strong Password]               | Easy       | 15        |
+| 4  | [.java](.java)                                       | [Two Characters]                | Easy       | 20        |
+| 5  | [.java](.java)                                       | [Caesar Cipher]                 | Easy       | 15        |
+| 6  | [.java](.java)                                       | [Mars Exploration]              | Easy       | 15        |
+| 7  | [.java](.java)                                       | [HackerRank in a String!]       | Easy       | 20        |
+| 8  | [.java](.java)                                       | [Pangrams]                      | Easy       | 20        |
+| 9  | [.java](.java)                                       | [Weighted Uniform Strings]      | Easy       | 20        |
+| 10 | [.java](.java)                                       | [Separate the Numbers]          | Easy       | 20        |
+| 11 | [.java](.java)                                       | [Funny String]                  | Easy       | 25        |
+| 12 | [.java](.java)                                       | [Gemstones]                     | Easy       | 20        |
+| 13 | [.java](.java)                                       | [Alternating Characters]        | Easy       | 20        |
+| 14 | [.java](.java)                                       | [Beautiful Binary String]       | Easy       | 20        |
+| 15 | [.java](.java)                                       | [The Love-Letter Mystery]       | Easy       | 20        |
+| 16 | [.java](.java)                                       | [Determining DNA Health]        | Hard       | 50        |
+| 17 | [.java](.java)                                       | [Palindrome Index]              | Easy       | 25        |
+| 18 | [.java](.java)                                       | [Anagram]                       | Easy       | 25        |
+| 19 | [.java](.java)                                       | [Making Anagrams]               | Easy       | 30        |
+| 20 | [.java](.java)                                       | [Game of Thrones - I]           | Easy       | 30        |
+| 21 | [.java](.java)                                       | [Two Strings]                   | Easy       | 25        |
+| 22 | [.java](.java)                                       | [String Construction]           | Easy       | 25        |
+| 23 | [.java](.java)                                       | [Sherlock and the Valid String] | Medium     | 35        |
+| 24 | [.java](.java)                                       | [Highest Value Palindrome]      | Medium     | 30        |
+| 25 | [.java](.java)                                       | [Maximum Palindromes]           | Medium     | 40        |
+| 26 | [.java](.java)                                       | [Sherlock and Anagrams]         | Medium     | 50        |
+| 27 | [.java](.java)                                       | [Common Child]                  | Medium     | 60        |
+| 28 | [.java](.java)                                       | [Bear and Steady Gene]          | Medium     | 50        |
+| 29 | [.java](.java)                                       | [Morgan and a String]           | Expert     | 100       |
+| 30 | [.java](.java)                                       | [Count Strings]                 | Hard       | 80        |
+| 31 | [.java](.java)                                       | [String Function Calculation]   | Advanced   | 80        |
+| 32 | [.java](.java)                                       | [Build a Palindrome]            | Advanced   | 80        |
+| 33 | [.java](.java)                                       | [Build a String]                | Hard       | 80        |
+| 34 | [.java](.java)                                       | [Gridland Provinces]            | Hard       | 80        |
+| 35 | [.java](.java)                                       | [Cards Permutation]             | Expert     | 85        |
+| 36 | [.java](.java)                                       | [Ashton and String]             | Advanced   | 100       |
+| 37 | [.java](.java)                                       | [String Similarity]             | Expert     | 100       |
+| 38 | [.java](.java)                                       | [Super Functional Strings]      | Advanced   | 80        |
+| 39 | [.java](.java)                                       | [Circular Palindromes]          | Advanced   | 120       |
+| 40 | [.java](.java)                                       | [Similar Strings]               | Advanced   | 85        |
+| 41 | [.java](.java)                                       | [Save Humanity]                 | Expert     | 100       |
+| 42 | [.java](.java)                                       | [Find Strings]                  | Expert     | 100       |
+| 43 | [.java](.java)                                       | [Palindromic Border]            | Expert     | 100       |
+| 44 | [.java](.java)                                       | [Two Two]                       | Advanced   | 150       |
+| 45 | [.java](.java)                                       | [Two Strings Game]              | Expert     | 100       |
+| 46 | [.java](.java)                                       | [Letter Islands]                | Expert     | 100       |
+| 47 | [.java](.java)                                       | [Pseudo-Isomorphic Substrings]  | Expert     | 100       |
+| 48 | [.java](.java)                                       | [How Many Substrings?]          | Expert     | 100       |
 
 [Super Reduced String]: https://www.hackerrank.com/challenges/reduced-string/problem
 [CamelCase]: https://www.hackerrank.com/challenges/camelcase/problem
@@ -97,4 +99,3 @@
 [Letter Islands]: https://www.hackerrank.com/challenges/letter-islands/problem
 [Pseudo-Isomorphic Substrings]: https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings/problem
 [How Many Substrings?]: https://www.hackerrank.com/challenges/how-many-substrings/problem
-
