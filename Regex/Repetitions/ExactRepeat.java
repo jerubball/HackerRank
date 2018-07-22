@@ -15,7 +15,7 @@ public class ExactRepeat {
         tester.checker("^[^\\W13579]{40}[\\s13579]{5}$");
     }
 }
-class Regex_Test {
+class RegexTest {
     public void checker(String RegexPattern) {
         Scanner Input = new Scanner(System.in);
         String TestString = Input.nextLine();
