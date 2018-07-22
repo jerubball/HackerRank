@@ -9,7 +9,7 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem
  * @author Hasol
  */
-public class Asterisk {
+public class AsteriskMatch {
     public static void main(String[] args) {
         RegexTest tester = new RegexTest();
         tester.checker("^\\d{2,}[a-z]*[A-Z]*$");
