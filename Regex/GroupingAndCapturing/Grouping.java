@@ -12,7 +12,7 @@ package Regex.GroupingAndCapturing;
 public class Grouping {
     public static void main(String[] args) {
         Regex_Test tester = new Regex_Test();
-        tester.checker("^([MDE]r|Mr?s)\\.[a-zA-Z]+$");
+        tester.checker("(?:ok){3,}");
     }
 }
 class RegexTest {
