@@ -9,10 +9,9 @@ import java.util.regex.*;
  * https://www.regular-expressions.info/branchreset.html
  * @author Hasol
  */
-public class BranchReset {    
+public class MatchBranch {    
     public static void main(String[] args) {
         RegexTest tester = new RegexTest();
-        // Branch Reset not supproted in Java. see BranchReset.php
         tester.checker("^\\d{2}([-.:]|---)(\\d{2}\\1){2}\\d{2}$");
     }
 }
