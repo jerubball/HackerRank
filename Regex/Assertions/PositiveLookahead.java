@@ -11,7 +11,7 @@ import java.util.regex.*;
  */
 public class PositiveLookahead {
     public static void main(String[] args) {
-        Regex_Test tester = new Regex_Test();
+        RegexTest tester = new RegexTest();
         tester.checker("o(?=oo)");
     }
 }
