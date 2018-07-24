@@ -12,8 +12,8 @@ import java.util.regex.*;
 public class ExtractTag {
     static void validateTag(String line, boolean skip) {
         // stack to keep track of nested tags
-        Stack<String> stack = new Stack<> ();
-        Pattern ptag = Pattern.compile ("<(/?[^<>/]+)>");
+        Stack<String> stack = new Stack<>();
+        Pattern ptag = Pattern.compile("<(/?[^<>/]+)>");
         // initialize variables
         int index = 0;
         boolean found = false, valid = true, print = false;
