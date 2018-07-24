@@ -16,7 +16,7 @@ public class NegativeLookahead {
     }
 }
 class RegexTest {
-    public void checker(String RegexPattern){
+    public void checker(String RegexPattern) {
         Scanner Input = new Scanner(System.in);
         String TestString = Input.nextLine();
         Pattern p = Pattern.compile(RegexPattern);
