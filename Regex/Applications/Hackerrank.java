@@ -1,7 +1,7 @@
+package Regex.Applications;
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
-package Regex.Applications;
 /**
  * HackerRank Regex Applications 11
  * https://www.hackerrank.com/challenges/hackerrank-tweets/problem
