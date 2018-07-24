@@ -7,7 +7,7 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/hackerrank-tweets/problem
  * @author Hasol
  */
-public class Hackerrank {
+public class Hackerrank1 {
     static int numMatches(CharSequence seq, String reg) {
         int n = 0;
         Matcher m = Pattern.compile(reg, Pattern.CASE_INSENSITIVE).matcher(seq);
