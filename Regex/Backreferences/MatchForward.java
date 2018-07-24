@@ -9,7 +9,7 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/forward-references/problem
  * @author Hasol
  */
-public class Solution {
+public class MatchForward {
     public static void main(String[] args) {
         RegexTest tester = new RegexTest();
         tester.checker("^tac(tac(tic)?)*$");
