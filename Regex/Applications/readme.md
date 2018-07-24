@@ -25,25 +25,25 @@
 | 21 | [.java](.java)                                   | [The British and American Style of Spelling]           | Easy       | 15        |
 | 22 | [.java](.java)                                   | [UK and US: Part 2]                                    | Easy       | 10        |
 
-[Detect HTML links]: 
-[Detect HTML Tags]: 
-[Find A Sub-Word]: 
-[Alien Username]: 
-[IP Address Validation]: 
-[Find a Word]: 
-[Detect the Email Addresses]: 
-[Detect the Domain Name]: 
-[Building a Smart IDE: Identifying comments]: 
-[Detecting Valid Latitude and Longitude Pairs]: 
-[HackerRank Tweets]: 
-[Build a Stack Exchange Scraper]: 
-[Utopian Identification Number]: 
-[Valid PAN format]: 
-[Find HackerRank]: 
-[Saying Hi]: 
-[HackerRank Language]: 
-[Building a Smart IDE: Programming Language Detection]: 
-[Split the Phone Numbers]: 
-[Detect HTML Attributes]: 
-[The British and American Style of Spelling]: 
-[UK and US: Part 2]: 
+[Detect HTML links]: https://www.hackerrank.com/challenges/detect-html-links/problem
+[Detect HTML Tags]: https://www.hackerrank.com/challenges/detect-html-tags/problem
+[Find A Sub-Word]: https://www.hackerrank.com/challenges/find-substring/problem
+[Alien Username]: https://www.hackerrank.com/challenges/alien-username/problem
+[IP Address Validation]: https://www.hackerrank.com/challenges/ip-address-validation/problem
+[Find a Word]: https://www.hackerrank.com/challenges/find-a-word/problem
+[Detect the Email Addresses]: https://www.hackerrank.com/challenges/detect-the-email-addresses/problem
+[Detect the Domain Name]: https://www.hackerrank.com/challenges/detect-the-domain-name/problem
+[Building a Smart IDE: Identifying comments]: https://www.hackerrank.com/challenges/ide-identifying-comments/problem
+[Detecting Valid Latitude and Longitude Pairs]: https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem
+[HackerRank Tweets]: https://www.hackerrank.com/challenges/hackerrank-tweets/problem
+[Build a Stack Exchange Scraper]: https://www.hackerrank.com/challenges/stack-exchange-scraper/problem
+[Utopian Identification Number]: https://www.hackerrank.com/challenges/utopian-identification-number/problem
+[Valid PAN format]: https://www.hackerrank.com/challenges/valid-pan-format/problem
+[Find HackerRank]: https://www.hackerrank.com/challenges/find-hackerrank/problem
+[Saying Hi]: https://www.hackerrank.com/challenges/saying-hi/problem
+[HackerRank Language]: https://www.hackerrank.com/challenges/hackerrank-language/problem
+[Building a Smart IDE: Programming Language Detection]: https://www.hackerrank.com/challenges/programming-language-detection/problem
+[Split the Phone Numbers]: https://www.hackerrank.com/challenges/split-number/problem
+[Detect HTML Attributes]: https://www.hackerrank.com/challenges/html-attributes/problem
+[The British and American Style of Spelling]: https://www.hackerrank.com/challenges/uk-and-us/problem
+[UK and US: Part 2]: https://www.hackerrank.com/challenges/uk-and-us-2/problem
