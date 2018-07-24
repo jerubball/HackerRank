@@ -1,9 +1,9 @@
+package Regex.Assertions;
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-package Regex.Assertions;
 /**
  * HackerRank Regex Assertions 2
  * https://www.hackerrank.com/challenges/negative-lookahead/problem
