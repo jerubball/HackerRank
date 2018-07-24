@@ -7,7 +7,7 @@
 | 3  | [.java](.java)                                       | [Branch Reset Groups]              | Easy       | 20        |
 | 4  | [.java](.java)                                       | [Forward References]               | Easy       | 20        |
 
-[Matching Same Text Again & Again]: https://www.hackerrank.com/challenges/matching-same-text-again-again
-[Backreferences To Failed Groups]: https://www.hackerrank.com/challenges/backreferences-to-failed-groups
-[Branch Reset Groups]: https://www.hackerrank.com/challenges/branch-reset-groups
-[Forward References]: https://www.hackerrank.com/challenges/forward-references
+[Matching Same Text Again & Again]: https://www.hackerrank.com/challenges/matching-same-text-again-again/problem
+[Backreferences To Failed Groups]: https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem
+[Branch Reset Groups]: https://www.hackerrank.com/challenges/branch-reset-groups/problem
+[Forward References]: https://www.hackerrank.com/challenges/forward-references/problem
