@@ -12,7 +12,7 @@ public class HypertextLink {
         Scanner scan = new Scanner(System.in);
         int n = Integer.parseInt(scan.nextLine());
         StringBuilder sb = new StringBuilder(100*n);
-        String reg = "<\\s*?a\\s*?[^<>/]*?href=\"([^\"]*?)\"[^<>/]*?>(<[^>]+?>)*?([^<>]*?)(<[^>]+?>)*?<\\s*/a\\s*>";
+        String reg = "<\\s*a\\s*[^<>/]*?href=\"([^\"]*?)\"[^<>/]*?>(<[^>]+?>)*?([^<>]*?)(<[^>]+?>)*?<\\s*/a\\s*>";
         while (scan.hasNextLine()) {
             sb.append(scan.nextLine());
             sb.append("\n");
