@@ -19,7 +19,6 @@ public class WordMatch {
         Scanner scan = new Scanner(System.in);
         int n = Integer.parseInt(scan.nextLine());
         StringBuilder sb = new StringBuilder(100*n);
-        HashSet<String> set = new HashSet<>();
         for (int i=0; i<n; i++) {
             sb.append(scan.nextLine());
             sb.append("\n");
