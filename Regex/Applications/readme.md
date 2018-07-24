@@ -12,13 +12,13 @@
 | 8  | [DomainName.java](DomainName.java)            | [Detect the Domain Name]                               | Medium     | 15        |
 | 9  | [CommentMatch.java](CommentMatch.java)        | [Building a Smart IDE: Identifying comments]           | Medium     | 20        |
 | 10 | [LatLong.java](LatLong.java)                  | [Detecting Valid Latitude and Longitude Pairs]         | Easy       | 20        |
-| 11 | [.java](.java)                                | [HackerRank Tweets]                                    | Easy       | 15        |
-| 12 | [.java](.java)                                | [Build a Stack Exchange Scraper]                       | Easy       | 15        |
-| 13 | [.java](.java)                                | [Utopian Identification Number]                        | Easy       | 15        |
-| 14 | [.java](.java)                                | [Valid PAN format]                                     | Easy       | 15        |
-| 15 | [.java](.java)                                | [Find HackerRank]                                      | Easy       | 15        |
-| 16 | [.java](.java)                                | [Saying Hi]                                            | Easy       | 15        |
-| 17 | [.java](.java)                                | [HackerRank Language]                                  | Easy       | 15        |
+| 11 | [Hackerrank1.java](Hackerrank1.java)          | [HackerRank Tweets]                                    | Easy       | 15        |
+| 12 | [StackExchange.java](StackExchange.java)      | [Build a Stack Exchange Scraper]                       | Easy       | 15        |
+| 13 | [IDNumber.java](IDNumber.java)                | [Utopian Identification Number]                        | Easy       | 15        |
+| 14 | [PANumber.java](PANumber.java)                | [Valid PAN format]                                     | Easy       | 15        |
+| 15 | [Hackerrank2.java](Hackerrank2.java)          | [Find HackerRank]                                      | Easy       | 15        |
+| 16 | [SayHi.java](SayHi.java)                      | [Saying Hi]                                            | Easy       | 15        |
+| 17 | [LanguageAPI.java](LanguageAPI.java)          | [HackerRank Language]                                  | Easy       | 15        |
 | 18 | [.java](.java)                                | [Building a Smart IDE: Programming Language Detection] | Medium     | 30        |
 | 19 | [.java](.java)                                | [Split the Phone Numbers]                              | Easy       | 15        |
 | 20 | [.java](.java)                                | [Detect HTML Attributes]                               | Easy       | 20        |
