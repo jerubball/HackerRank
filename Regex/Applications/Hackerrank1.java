@@ -19,7 +19,6 @@ public class Hackerrank1 {
         Scanner scan = new Scanner(System.in);
         int n = Integer.parseInt(scan.nextLine());
         StringBuilder sb = new StringBuilder(100*n);
-        HashSet<String> set = new HashSet<>();
         while (scan.hasNextLine()) {
             sb.append(scan.nextLine());
             sb.append("\n");
