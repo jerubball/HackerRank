@@ -17,8 +17,8 @@ public class ProgrammerDay {
         GregorianCalendar c = new GregorianCalendar();
         c.setGregorianChange(new Date(-1637193600000l));
         // This sets transition date to Feb 14, 1918
-        c.set (Calendar.YEAR, year);
-        c.set (Calendar.DAY_OF_YEAR, 256);
+        c.set(Calendar.YEAR, year);
+        c.set(Calendar.DAY_OF_YEAR, 256);
         DecimalFormat f = new DecimalFormat("00");
         return f.format(c.get(Calendar.DAY_OF_MONTH)) + "." + f.format(c.get(Calendar.MONTH) + 1) + "." + year;
     }
