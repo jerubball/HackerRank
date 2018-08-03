@@ -27,7 +27,7 @@ public class Localization1 {
         for (int i=0; i<q; i++) {
             String w = scan.nextLine();
             w = Pattern.compile("ze").matcher(w).replaceFirst("[sz]e");
-            System.out.println(numMatches(sb, w));
+            System.out.println(numMatches(sb, "\\b" + w + "\\b"));
         }
     }
 }
