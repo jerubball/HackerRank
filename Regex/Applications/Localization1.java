@@ -26,7 +26,8 @@ public class Localization1 {
         int q = Integer.parseInt(scan.nextLine());
         for (int i=0; i<q; i++) {
             String w = scan.nextLine();
-            System.out.println(numMatches(sb, w.substring(0, w.length()-2) + "[sz]e"));
+            w = Pattern.compile("ze").matcher(w).replaceFirst("[sz]e");
+            System.out.println(numMatches(sb, w));
         }
     }
 }
