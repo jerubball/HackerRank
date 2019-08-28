@@ -1,89 +1,28 @@
 ## Table of Contents for Linux Shell/[Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
 
 
-| #  | File Name                                            | Title                              | Difficulty | Max Score |
-| -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
-| 1  | [.sh](.sh)                                       | [Let's Echo]                       | Easy       | 1        |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
-|  | [.sh](.sh)                                       | []                       | Easy       |         |
+| #  | File Name                                            | Title                               | Difficulty | Max Score |
+| -- | ---------------------------------------------------- | ----------------------------------- | ---------- | --------- |
+| 1  | [echo.sh](echo.sh)                                   | [Let's Echo]                        | Easy       | 1         |
+| 2  | [loop.sh](loop.sh)                                   | [Looping and Skipping]              | Easy       | 2         |
+| 3  | [.sh](.sh)                                       | [A Personalized Echo]               | Easy       | 1         |
+| 4  | [.sh](.sh)                                       | [Looping with Numbers]              | Easy       | 2         |
+| 5  | [.sh](.sh)                                       | [The World of Numbers]              | Easy       | 2         |
+| 6  | [.sh](.sh)                                       | [Comparing Numbers]                 | Easy       | 3         |
+| 7  | [.sh](.sh)                                       | [Getting started with conditionals] | Easy       | 3         |
+| 8  | [.sh](.sh)                                       | [More on Conditionals]              | Easy       | 3         |
+| 9  | [.sh](.sh)                                       | [Arithmetic Operations]             | Medium     | 3         |
+| 10 | [.sh](.sh)                                       | [Compute the Average]               | Medium     | 4         |
+| 11 | [.sh](.sh)                                       | [Functions and Fractals - Recursive Trees - Bash!] | Hard       | 30        |
 
-
-Looping and Skipping
-EasyMax Score: 2Success Rate: 96.08%
-
-
-Solve Challenge
-A Personalized Echo
-EasyMax Score: 1Success Rate: 98.51%
-
-
-Solve Challenge
-Looping with Numbers
-EasyMax Score: 2Success Rate: 99.42%
-
-
-Solve Challenge
-promo-icon
-Roblox is hiring!
-Roblox is a gaming company in San Mateo, CA with millions of users across the globe. They are looking for Frontend, Backend and FullStack developers.
-
-View
-The World of Numbers
-EasyMax Score: 2Success Rate: 97.31%
-
-
-Solve Challenge
-Comparing Numbers
-EasyMax Score: 3Success Rate: 97.74%
-
-
-Solve Challenge
-Getting started with conditionals
-EasyMax Score: 3Success Rate: 97.34%
-
-
-Solve Challenge
-More on Conditionals
-EasyMax Score: 3Success Rate: 95.89%
-
-
-Solve Challenge
-Arithmetic Operations
-MediumMax Score: 3Success Rate: 89.13%
-
-
-Solve Challenge
-Compute the Average
-MediumMax Score: 4Success Rate: 87.67%
-
-
-Solve Challenge
-Functions and Fractals - Recursive Trees - Bash!
-HardMax Score: 30Success Rate: 91.45%
-
-
-
-
-
-
-[Let's Echo]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Let's Echo]: https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
+[Looping and Skipping]: https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
+[A Personalized Echo]: 
+[Looping with Numbers]: 
+[The World of Numbers]: 
+[Comparing Numbers]: 
+[Getting started with conditionals]: 
+[More on Conditionals]: 
+[Arithmetic Operations]: 
+[Compute the Average]: 
+[Functions and Fractals - Recursive Trees - Bash!]: 
