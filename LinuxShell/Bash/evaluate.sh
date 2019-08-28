@@ -6,5 +6,5 @@
 
 read e
 
-printf "%.3f" $(bc -l <<< $e)
+printf "%.3f\n" $(bc -l <<< $e)
 #bc <<< "scale=3; $e"
