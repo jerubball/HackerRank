@@ -7,4 +7,5 @@
 while read i
 do
     cut -c3 <<< $i
+    #echo "${i:2:1}"
 done
