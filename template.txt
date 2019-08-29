@@ -20,8 +20,6 @@ package
 |  | []()                                       |          |
 |  | []()                                       |          |
 
-[]: 
-[]: 
 
 
 | #  | File Name                                            | Title                              | Difficulty | Max Score |
