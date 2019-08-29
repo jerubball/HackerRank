@@ -15,6 +15,7 @@ package
 
 
 
+# Table of Contents for []()
 | #  | Subdomain                                        | Problems |
 | -- | ------------------------------------------------ | -------- |
 |  | []()                                       |          |
@@ -22,6 +23,7 @@ package
 
 
 
+## Table of Contents for _/[]()
 | #  | File Name                                            | Title                              | Difficulty | Max Score |
 | -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
 |  | [.java](.java)                                       | []                       | Easy       |         |
