@@ -4,6 +4,8 @@
 # https://www.hackerrank.com/challenges/text-processing-cut-1/problem
 # Author: Hasol
 
+#cut -c3
+
 while read i
 do
     cut -c3 <<< $i
