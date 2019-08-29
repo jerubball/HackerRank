@@ -5,3 +5,15 @@
 # Author: Hasol
 
 tr "()" "[]"
+
+#while true
+#do
+#    read i
+#    if [[ "$i" == "" ]]
+#    then
+#        break
+#    fi
+#    i="${i//(/[}"
+#    i="${i//)/]}"
+#    echo "$i"
+#done
