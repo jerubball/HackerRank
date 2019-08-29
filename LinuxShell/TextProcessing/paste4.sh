@@ -5,3 +5,4 @@
 # Author: Hasol
 
 paste -s -d$'\t\t\n'
+paste - - -
