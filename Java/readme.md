@@ -1,6 +1,6 @@
 # Table of Contents for [Java](https://www.hackerrank.com/domains/java)
 
-| #  | SubDomain                                              | Problems |
+| #  | Subdomain                                              | Problems |
 | -- | ------------------------------------------------------ | -------- |
 | 1  | [Introduction](Introduction)                           | 13       |
 | 2  | [Strings](Strings)                                     | 11       |
