@@ -2,10 +2,10 @@
 
 | #  | SubDomain                                              | Problems |
 | -- | ------------------------------------------------------ | -------- |
-| 1  | [Introduction](Introduction)                           |          |
-| 2  | [Strings](Strings)                                     |          |
-| 3  | [BigNumber](BigNumber)                                 |          |
-| 4  | [DataStructures](DataStructures)                       |          |
-| 5  | [ObjectOrientedProgramming](ObjectOrientedProgramming) |          |
-| 6  | [ExceptionHandling](ExceptionHandling)                 |          |
-| 7  | [Advanced](Advanced)                                   |          |
+| 1  | [Introduction](Introduction)                           | 13       |
+| 2  | [Strings](Strings)                                     | 11       |
+| 3  | [BigNumber](BigNumber)                                 | 3        |
+| 4  | [DataStructures](DataStructures)                       | 15       |
+| 5  | [ObjectOrientedProgramming](ObjectOrientedProgramming) | 8        |
+| 6  | [ExceptionHandling](ExceptionHandling)                 | 2        |
+| 7  | [Advanced](Advanced)                                   | 12       |
