@@ -5,6 +5,7 @@
 # Author: Hasol
 
 read n
+#read -a arr
 arr=( "$(cat)" )
 
 sort -n <<< "$(for i in ${arr[@]}; do echo $i; done)" | uniq -u
