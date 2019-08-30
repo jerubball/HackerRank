@@ -7,6 +7,8 @@
 (( n=0 ))
 declare -a arr
 
+#arr=( $(cat) )
+
 while read i
 do
     arr[n]="$i"
