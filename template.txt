@@ -1,9 +1,38 @@
+# Table of Contents for []()
+
+| #  | Subdomain                                        | Problems |
+| -- | ------------------------------------------------ | -------- |
+|  | []()                                       |          |
+|  | []()                                       |          |
+
+
+
+## Table of Contents for _/[]()
+
+| #  | File Name                                            | Title                              | Difficulty | Max Score |
+| -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
+
+
+
 package 
 /**
  * HackerRank _ _ #
  * url
  * @author Hasol
  */
+
+
+|  | [.java](.java)                                       | []                       | Easy       |         |
+|  | [.java](.java)                                       | []                       | Easy       |         |
+|  | [.java](.java)                                       | []                       | Easy       |         |
+|  | [.java](.java)                                       | []                       | Easy       |         |
+|  | [.java](.java)                                       | []                       | Easy       |         |
+
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
 
 
 
@@ -14,24 +43,6 @@ package
 # Author: Hasol
 
 
-
-# Table of Contents for []()
-| #  | Subdomain                                        | Problems |
-| -- | ------------------------------------------------ | -------- |
-|  | []()                                       |          |
-|  | []()                                       |          |
-
-
-
-## Table of Contents for _/[]()
-| #  | File Name                                            | Title                              | Difficulty | Max Score |
-| -- | ---------------------------------------------------- | ---------------------------------- | ---------- | --------- |
-|  | [.java](.java)                                       | []                       | Easy       |         |
-|  | [.java](.java)                                       | []                       | Easy       |         |
-|  | [.java](.java)                                       | []                       | Easy       |         |
-|  | [.java](.java)                                       | []                       | Easy       |         |
-|  | [.java](.java)                                       | []                       | Easy       |         |
-
 |  | [.sh](.sh)                                       | []                       | Easy       |         |
 |  | [.sh](.sh)                                       | []                       | Easy       |         |
 |  | [.sh](.sh)                                       | []                       | Easy       |         |
@@ -43,6 +54,21 @@ package
 []: 
 []: 
 []: 
+
+
+
+-- MySQL
+
+-- HackerRank _ _ #
+-- url
+-- Author: Hasol
+
+
+|  | [.sql](.sql)                                       | []                       | Easy       |         |
+|  | [.sql](.sql)                                       | []                       | Easy       |         |
+|  | [.sql](.sql)                                       | []                       | Easy       |         |
+|  | [.sql](.sql)                                       | []                       | Easy       |         |
+|  | [.sql](.sql)                                       | []                       | Easy       |         |
 
 []: 
 []: 
