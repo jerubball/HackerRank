@@ -2,12 +2,12 @@
 
 | #  | File Name                                          | Title                            | Difficulty | Max Score |
 | -- | -------------------------------------------------- | -------------------------------- | ---------- | --------- |
-| 1  | [.sql](.sql)                                       | [Revising the Select Query I]    | Easy       | 10        |
-| 2  | [.sql](.sql)                                       | [Revising the Select Query II]   | Easy       | 10        |
-| 3  | [.sql](.sql)                                       | [Select All]                     | Easy       | 10        |
-| 4  | [.sql](.sql)                                       | [Select By ID]                   | Easy       | 10        |
-| 5  | [.sql](.sql)                                       | [Japanese Cities' Attributes]    | Easy       | 10        |
-| 6  | [.sql](.sql)                                       | [Japanese Cities' Names]         | Easy       | 10        |
+| 1  | [select1.sql](select1.sql)                                       | [Revising the Select Query I]    | Easy       | 10        |
+| 2  | [select2.sql](select2.sql)                                       | [Revising the Select Query II]   | Easy       | 10        |
+| 3  | [select3.sql](select3.sql)                                       | [Select All]                     | Easy       | 10        |
+| 4  | [select4.sql](select4.sql)                                       | [Select By ID]                   | Easy       | 10        |
+| 5  | [select5.sql](select5.sql)                                       | [Japanese Cities' Attributes]    | Easy       | 10        |
+| 6  | [select5.sql](select5.sql)                                       | [Japanese Cities' Names]         | Easy       | 10        |
 | 7  | [.sql](.sql)                                       | [Weather Observation Station 1]  | Easy       | 15        |
 | 8  | [.sql](.sql)                                       | [Weather Observation Station 3]  | Easy       | 10        |
 | 9  | [.sql](.sql)                                       | [Weather Observation Station 4]  | Easy       | 10        |
@@ -23,12 +23,12 @@
 | 19 | [.sql](.sql)                                       | [Employee Names]                 | Easy       | 10        |
 | 20 | [.sql](.sql)                                       | [Employee Salaries]              | Easy       | 10        |
 
-[Revising the Select Query I]: 
-[Revising the Select Query II]: 
-[Select All]: 
-[Select By ID]: 
-[Japanese Cities' Attributes]: 
-[Japanese Cities' Names]: 
+[Revising the Select Query I]: https://www.hackerrank.com/challenges/revising-the-select-query/problem
+[Revising the Select Query II]: https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
+[Select All]: https://www.hackerrank.com/challenges/select-all-sql/problem
+[Select By ID]: https://www.hackerrank.com/challenges/select-by-id/problem
+[Japanese Cities' Attributes]: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+[Japanese Cities' Names]: https://www.hackerrank.com/challenges/japanese-cities-name/problem
 [Weather Observation Station 1]: 
 [Weather Observation Station 3]: 
 [Weather Observation Station 4]: 
@@ -43,3 +43,10 @@
 [Higher Than 75 Marks]: 
 [Employee Names]: 
 [Employee Salaries]: 
+
+
+-- MySQL
+
+-- HackerRank SQL BasicSelect 
+-- 
+-- Author: Hasol
