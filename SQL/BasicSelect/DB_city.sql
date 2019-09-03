@@ -1,8 +1,9 @@
 -- MySQL
 
-create database BasicSelect;
+create database if not exists BasicSelect;
 use BasicSelect;
 
+drop table if exists CITY;
 create table CITY (
   ID int,
   NAME varchar(17),
