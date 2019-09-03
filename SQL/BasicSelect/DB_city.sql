@@ -5,7 +5,7 @@ use BasicSelect;
 
 drop table if exists CITY;
 create table CITY (
-  ID          int,
+  ID          int         PRIMARY KEY,
   NAME        varchar(17),
   COUNTRYCODE varchar(3),
   DISTRICT    varchar(20),
