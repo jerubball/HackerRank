@@ -18,7 +18,6 @@ from (select case when Occupation='Doctor' then (@r1:=@r1+1)
       from OCCUPATIONS order by Name) as Temp group by ROWNUMBER;
 
 /*
-
 delimiter ;;
 drop function if exists arr_index;;
 create function arr_index(arr json, ind int) returns json deterministic begin
