@@ -3,7 +3,7 @@
 create database if not exists AdvancedSelect;
 use AdvancedSelect;
 
-drop table if not exists OCCUPATIONS;
+drop table if exists OCCUPATIONS;
 create table OCCUPATIONS (
   Name       varchar(30),
   Occupation varchar(30)
