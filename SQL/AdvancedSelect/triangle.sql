@@ -11,6 +11,7 @@ select case when A + B <= C or A + C <= B or B + C <= A then 'Not A Triangle'
        end from TRIANGLES;
 
 /*
+drop function if exists identify;
 delimiter ;;
 create function identify(A int, B int, C int) returns varchar(14) deterministic begin
     if A + B <= C or A + C <= B or B + C <= A then return 'Not A Triangle';
