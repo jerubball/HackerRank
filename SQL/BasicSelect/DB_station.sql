@@ -5,7 +5,7 @@ use BasicSelect;
 
 drop table if exists STATION;
 create table STATION (
-  ID     int         PRIMARY KEY,
+  ID     int         primary key,
   CITY   varchar(21),
   STATE  varchar(2),
   LAT_N  int,
