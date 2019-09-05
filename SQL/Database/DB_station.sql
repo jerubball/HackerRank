@@ -14,7 +14,8 @@ create table STATION (
   LONG_W decimal(21,10)
 );
 
-insert into STATION values  (1,   'Pfeifer',               'KS', 37.4447804700,  65.6849125200),
+insert into STATION values
+  (1,   'Pfeifer',               'KS', 37.4447804700,  65.6849125200),
   (3,   'Hesperia',              'CA', 106.0569286000, 71.1187671100),
   (4,   'South Britain',         'CT', 65.5842193100,  33.6050437900),
   (11,  'Crescent City',         'FL', 58.0396424800,  117.9040740000),
