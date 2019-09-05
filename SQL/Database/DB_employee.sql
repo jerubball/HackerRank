@@ -1,7 +1,9 @@
 -- MySQL
 
-create database if not exists BasicSelect;
-use BasicSelect;
+create database if not exists HackerRank;
+use HackerRank;
+
+-- Subdomain: BasicSelect
 
 drop table if exists Employee;
 create table Employee (
