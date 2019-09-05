@@ -5,6 +5,8 @@ use HackerRank;
 
 -- Subdomains: BasicSelect
 
+-- drop table if exists Employee_Salary;
+-- create table Employee_Salary (
 drop table if exists Employee;
 create table Employee (
   employee_id int         primary key,
@@ -13,6 +15,7 @@ create table Employee (
   salary      int
 );
 
+-- insert into Employee_Salary values
 insert into Employee values
   (330,   'Rose',       5,  2248),
   (1233,  'Angela',     7,  1296),
