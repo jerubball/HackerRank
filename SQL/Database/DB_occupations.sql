@@ -1,7 +1,9 @@
 -- MySQL
 
-create database if not exists AdvancedSelect;
-use AdvancedSelect;
+create database if not exists HackerRank;
+use HackerRank;
+
+-- Subdomains: AdvancedSelect
 
 drop table if exists OCCUPATIONS;
 create table OCCUPATIONS (
