@@ -6,7 +6,7 @@ User Profile: [jerubball](https://www.hackerrank.com/jerubball)
 
 ## Table of Contents
 
-| #  | Skills               | Domain                                        | Subdomains | Problems |
+| #  | Skill                | Domain                                        | Subdomains | Problems |
 | -- | -------------------- | --------------------------------------------- | ---------- | -------- |
 | 1  | Problem Solving      | [Algorithms](Algorithms)                      |            |          |
 | 2  | Language Proficiency | [Java](Java)                                  | 7          | 64       |
