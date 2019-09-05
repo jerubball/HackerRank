@@ -3,7 +3,7 @@
 create database if not exists HackerRank;
 use HackerRank;
 
--- Subdomain: BasicSelect
+-- Subdomains: BasicSelect
 
 drop table if exists Employee;
 create table Employee (
