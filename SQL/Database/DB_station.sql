@@ -3,7 +3,7 @@
 create database if not exists HackerRank;
 use HackerRank;
 
--- Subdomains: BasicSelect
+-- Subdomains: BasicSelect, Aggregation
 
 drop table if exists STATION;
 create table STATION (
