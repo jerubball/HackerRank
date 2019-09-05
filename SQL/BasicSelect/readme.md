@@ -1,5 +1,5 @@
 ## Table of Contents for SQL/[Basic Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
- 
+
 | #  | File Name                      | Title                            | Difficulty | Max Score |
 | -- | ------------------------------ | -------------------------------- | ---------- | --------- |
 | 1  | [city1.sql](city1.sql)         | [Revising the Select Query I]    | Easy       | 10        |
