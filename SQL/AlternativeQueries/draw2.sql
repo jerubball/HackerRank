@@ -33,7 +33,7 @@ select '* * * * * * * * * * * * * * * * * * * * ';
 /*
 delimiter ;;
 drop procedure if exists test;;
-create procedure test(n int) begin
+create procedure test(n int) deterministic begin
     if n > 0 then
         call test(n-1);
         select repeat('* ',n);
