@@ -5,8 +5,8 @@
 | 1  | [city13.sql](city13.sql)                           | [Asian Population]                     | Easy       | 10        |
 | 2  | [city14.sql](city14.sql)                           | [African Cities]                       | Easy       | 10        |
 | 3  | [city15.sql](city15.sql)                           | [Average Population of Each Continent] | Easy       | 10        |
-| 4  | [.sql](.sql)                                       | [The Report]                           | Medium     | 20        |
-| 5  | [.sql](.sql)                                       | [Top Competitors]                      | Medium     | 30        |
+| 4  | [students2.sql](students2.sql)                     | [The Report]                           | Medium     | 20        |
+| 5  | [hackers1.sql](hackers1.sql)                       | [Top Competitors]                      | Medium     | 30        |
 | 6  | [.sql](.sql)                                       | [Ollivander's Inventory]               | Medium     | 30        |
 | 7  | [.sql](.sql)                                       | [Challenges]                           | Medium     | 30        |
 | 8  | [.sql](.sql)                                       | [Contest Leaderboard]                  | Medium     | 30        |
