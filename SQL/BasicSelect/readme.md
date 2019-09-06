@@ -19,7 +19,7 @@
 | 15 | [station10.sql](station10.sql) | [Weather Observation Station 10] | Easy       | 10        |
 | 16 | [station11.sql](station11.sql) | [Weather Observation Station 11] | Easy       | 15        |
 | 17 | [station12.sql](station12.sql) | [Weather Observation Station 12] | Easy       | 15        |
-| 18 | [students.sql](students.sql)   | [Higher Than 75 Marks]           | Easy       | 15        |
+| 18 | [students1.sql](students1.sql) | [Higher Than 75 Marks]           | Easy       | 15        |
 | 19 | [employee1.sql](employee1.sql) | [Employee Names]                 | Easy       | 10        |
 | 20 | [employee2.sql](employee2.sql) | [Employee Salaries]              | Easy       | 10        |
 
