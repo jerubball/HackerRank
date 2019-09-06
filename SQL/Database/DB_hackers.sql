@@ -7,7 +7,7 @@ use HackerRank;
 
 drop table if exists Hackers;
 create table Hackers (
-  hacker_id int         primary key,
+  hacker_id int,
   name      varchar(20)
 );
 
@@ -19,7 +19,7 @@ create table Difficulty (
 
 drop table if exists Challenges;
 create table Challenges (
-  challenge_id     int primary key,
+  challenge_id     int,
   hacker_id        int,
   difficulty_level int
 );
