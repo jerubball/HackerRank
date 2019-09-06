@@ -7,7 +7,7 @@ use HackerRank;
 
 drop table if exists STUDENTS;
 create table STUDENTS (
-  ID    int         primary key,
+  ID    int,
   Name  varchar(30),
   Marks int
 );
