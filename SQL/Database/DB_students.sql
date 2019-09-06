@@ -3,7 +3,7 @@
 create database if not exists HackerRank;
 use HackerRank;
 
--- Subdomains: BasicSelect
+-- Subdomains: BasicSelect, BasicJoin
 
 drop table if exists STUDENTS;
 create table STUDENTS (
@@ -11,6 +11,14 @@ create table STUDENTS (
   Name  varchar(30),
   Marks int
 );
+
+drop table if exists GRADES;
+create table GRADES (
+  Grade    int,
+  Min_Mark int,
+  Max_Mark int
+);
+
 
 insert into STUDENTS values
   (11, 'Britney',   95),
@@ -38,5 +46,17 @@ insert into STUDENTS values
   (76, 'Amina',     89),
   (81, 'Aamina',    77),
   (91, 'Vivek',     84);
+
+insert into GRADES values
+  (1,  0,  9),
+  (2,  10, 19),
+  (3,  20, 29),
+  (4,  30, 39),
+  (5,  40, 49),
+  (6,  50, 59),
+  (7,  60, 69),
+  (8,  70, 79),
+  (9,  80, 89),
+  (10, 90, 100);
 
 
