@@ -2,9 +2,9 @@
 
 | #  | File Name                                          | Title                                  | Difficulty | Max Score |
 | -- | -------------------------------------------------- | -------------------------------------- | ---------- | --------- |
-| 1  | [.sql](.sql)                                       | [Asian Population]                     | Easy       | 10        |
-| 2  | [.sql](.sql)                                       | [African Cities]                       | Easy       | 10        |
-| 3  | [.sql](.sql)                                       | [Average Population of Each Continent] | Easy       | 10        |
+| 1  | [city13.sql](city13.sql)                           | [Asian Population]                     | Easy       | 10        |
+| 2  | [city14.sql](city14.sql)                           | [African Cities]                       | Easy       | 10        |
+| 3  | [city15.sql](city15.sql)                           | [Average Population of Each Continent] | Easy       | 10        |
 | 4  | [.sql](.sql)                                       | [The Report]                           | Medium     | 20        |
 | 5  | [.sql](.sql)                                       | [Top Competitors]                      | Medium     | 30        |
 | 6  | [.sql](.sql)                                       | [Ollivander's Inventory]               | Medium     | 30        |
