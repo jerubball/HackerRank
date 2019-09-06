@@ -34,7 +34,8 @@ create table Submissions (
 );
 
 
-insert into Hackers values  (10,    'Rose'),
+insert into Hackers values
+  (10,    'Rose'),
   (72,    'Rose'),
   (79,    'Rose'),
   (91,    'Angela'),
@@ -3714,7 +3715,7 @@ insert into Challenges values
   (93294, 59907, 4),
   (99326, 18983, 5);
 
-insert into Submissions values;
+insert into Submissions values
   (42,    486,   20594, 17,  null),
   (48,    650,   null,  0,   '2016-03-01'),
   (89,    486,   20594, 45,  null),
