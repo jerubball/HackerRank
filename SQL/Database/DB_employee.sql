@@ -5,10 +5,10 @@ use HackerRank;
 
 -- Subdomains: BasicSelect, Aggregation
 
--- drop table if exists Employee_Salary;
--- create table Employee_Salary (
-drop table if exists Employee;
-create table Employee (
+-- drop table if exists Employee;
+-- create table Employee (
+drop table if exists Employee_Salary;
+create table Employee_Salary (
   employee_id int         primary key,
   name        varchar(20),
   months      int,
