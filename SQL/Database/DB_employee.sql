@@ -15,8 +15,9 @@ create table Employee_Salary (
   salary      int
 );
 
--- insert into Employee_Salary values
-insert into Employee values
+
+-- insert into Employee values
+insert into Employee_Salary values
   (330,   'Rose',       5,  2248),
   (1233,  'Angela',     7,  1296),
   (1901,  'Frank',      10, 2763),
