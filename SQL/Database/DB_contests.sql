@@ -20,7 +20,7 @@ create table Colleges (
 
 -- drop table if exists Challenges;
 -- create table Challenges (
-drop table if exists Challenges_College
+drop table if exists Challenges_College;
 create table Challenges_College (
   challenge_id int,
   college_id   int
