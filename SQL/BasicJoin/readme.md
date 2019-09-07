@@ -1,15 +1,15 @@
 ## Table of Contents for SQL/[Basic Join](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=join)
 
-| #  | File Name                                          | Title                                  | Difficulty | Max Score |
-| -- | -------------------------------------------------- | -------------------------------------- | ---------- | --------- |
-| 1  | [city13.sql](city13.sql)                           | [Asian Population]                     | Easy       | 10        |
-| 2  | [city14.sql](city14.sql)                           | [African Cities]                       | Easy       | 10        |
-| 3  | [city15.sql](city15.sql)                           | [Average Population of Each Continent] | Easy       | 10        |
-| 4  | [students2.sql](students2.sql)                     | [The Report]                           | Medium     | 20        |
-| 5  | [hackers1.sql](hackers1.sql)                       | [Top Competitors]                      | Medium     | 30        |
-| 6  | [.sql](.sql)                                       | [Ollivander's Inventory]               | Medium     | 30        |
-| 7  | [.sql](.sql)                                       | [Challenges]                           | Medium     | 30        |
-| 8  | [.sql](.sql)                                       | [Contest Leaderboard]                  | Medium     | 30        |
+| #  | File Name                      | Title                                  | Difficulty | Max Score |
+| -- | ------------------------------ | -------------------------------------- | ---------- | --------- |
+| 1  | [city13.sql](city13.sql)       | [Asian Population]                     | Easy       | 10        |
+| 2  | [city14.sql](city14.sql)       | [African Cities]                       | Easy       | 10        |
+| 3  | [city15.sql](city15.sql)       | [Average Population of Each Continent] | Easy       | 10        |
+| 4  | [students2.sql](students2.sql) | [The Report]                           | Medium     | 20        |
+| 5  | [hackers1.sql](hackers1.sql)   | [Top Competitors]                      | Medium     | 30        |
+| 6  | [wands.sql](wands.sql)         | [Ollivander's Inventory]               | Medium     | 30        |
+| 7  | [hackers2.sql](hackers2.sql)   | [Challenges]                           | Medium     | 30        |
+| 8  | [hackers3.sql](hackers3.sql)   | [Contest Leaderboard]                  | Medium     | 30        |
 
 [Asian Population]: https://www.hackerrank.com/challenges/asian-population/problem
 [African Cities]: https://www.hackerrank.com/challenges/african-cities/problem
