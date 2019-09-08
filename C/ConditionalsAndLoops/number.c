@@ -68,16 +68,19 @@ char* readline ()
         char* cursor = data + data_length;
         char* line = fgets (cursor, alloc_length - data_length, stdin);
 
-        if (!line) { break; }
+        if (!line)
+            break;
 
         data_length += strlen(cursor);
 
-        if (data_length < alloc_length - 1 || data[data_length - 1] == '\n') { break; }
+        if (data_length < alloc_length - 1 || data[data_length - 1] == '\n')
+            break;
 
         size_t new_length = alloc_length << 1;
         data = realloc (data, new_length);
 
-        if (!data) { break; }
+        if (!data)
+            break;
 
         alloc_length = new_length;
     }
