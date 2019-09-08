@@ -9,9 +9,9 @@
 | 5  | [.c](.c)                                       | [Variadic functions in C]  | Medium     | 50        |
 | 6  | [.c](.c)                                       | [Querying the Document]    | Hard       | 60        |
 
-[Calculate the Nth term]: 
-[Students Marks Sum]: 
-[Sorting Array of Strings]: 
-[Permutations of Strings]: 
-[Variadic functions in C]: 
-[Querying the Document]: 
+[Calculate the Nth term]: https://www.hackerrank.com/challenges/recursion-in-c/problem
+[Students Marks Sum]: https://www.hackerrank.com/challenges/students-marks-sum/problem
+[Sorting Array of Strings]: https://www.hackerrank.com/challenges/sorting-array-of-strings/problem
+[Permutations of Strings]: https://www.hackerrank.com/challenges/permutations-of-strings/problem
+[Variadic functions in C]: https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
+[Querying the Document]: https://www.hackerrank.com/challenges/querying-the-document/problem
