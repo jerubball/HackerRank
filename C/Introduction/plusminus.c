@@ -3,15 +3,14 @@
 #include <math.h>
 #include <stdlib.h>
 
-
 /*
  * HackerRank C Introduction 3
  * https://www.hackerrank.com/challenges/sum-numbers-c/problem
  * Author: Hasol
  */
-int main()
+int main ()
 {
-	int a, b;
+    int a, b;
     float c, d;
     scanf ("%d %d%*[\r\n]", &a, &b);
     scanf ("%f %f%*[\r\n]", &c, &d);
@@ -19,4 +18,3 @@ int main()
     printf ("%.1f %.1f", c+d, c-d);
     return 0;
 }
-
