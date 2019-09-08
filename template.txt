@@ -36,6 +36,48 @@ package
 
 
 
+/**
+ * HackerRank _ _ #
+ * url
+ * Author: Hasol
+ */
+
+
+|  | [.c](.c)                                       | []                       | Easy       |         |
+|  | [.c](.c)                                       | []                       | Easy       |         |
+|  | [.c](.c)                                       | []                       | Easy       |         |
+|  | [.c](.c)                                       | []                       | Easy       |         |
+|  | [.c](.c)                                       | []                       | Easy       |         |
+
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+
+
+
+/**
+ * HackerRank _ _ #
+ * url
+ * @author Hasol
+ */
+
+
+|  | [.cpp](.cpp)                                       | []                       | Easy       |         |
+|  | [.cpp](.cpp)                                       | []                       | Easy       |         |
+|  | [.cpp](.cpp)                                       | []                       | Easy       |         |
+|  | [.cpp](.cpp)                                       | []                       | Easy       |         |
+|  | [.cpp](.cpp)                                       | []                       | Easy       |         |
+
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+
+
+
 #!/bin/bash
 
 # HackerRank _ _ #
