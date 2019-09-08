@@ -1,4 +1,4 @@
-## Table of Contents for C/[ConditionalsAndLoops](https://www.hackerrank.com/domains/c?filters%5Bsubdomains%5D%5B%5D=c-conditionals-and-loops)
+## Table of Contents for C/[Conditionals and Loops](https://www.hackerrank.com/domains/c?filters%5Bsubdomains%5D%5B%5D=c-conditionals-and-loops)
 
 | #  | File Name                                      | Title                                  | Difficulty | Max Score |
 | -- | ---------------------------------------------- | -------------------------------------- | ---------- | --------- |
