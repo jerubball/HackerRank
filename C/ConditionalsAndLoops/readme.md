@@ -8,8 +8,8 @@
 | 4  | [.c](.c)                                       | [Bitwise Operators]                    | Easy       | 15        |
 | 5  | [.c](.c)                                       | [Printing Pattern using Loops]         | Medium     | 30        |
 
-[Conditional Statements in C]: 
-[For Loop in C]: 
-[Sum of Digits of a Five Digit Number]: 
-[Bitwise Operators]: 
-[Printing Pattern using Loops]: 
+[Conditional Statements in C]: https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
+[For Loop in C]: https://www.hackerrank.com/challenges/for-loop-in-c/problem
+[Sum of Digits of a Five Digit Number]: https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
+[Bitwise Operators]: https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
+[Printing Pattern using Loops]: https://www.hackerrank.com/challenges/printing-pattern-2/problem
