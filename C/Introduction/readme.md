@@ -8,8 +8,8 @@
 | 4  | [.c](.c)                                       | [Functions in C]                    | Easy       | 10        |
 | 5  | [.c](.c)                                       | [Pointers in C]                     | Easy       | 10        |
 
-["Hello World!" in C]: 
-[Playing With Characters]: 
-[Sum and Difference of Two Numbers]: 
-[Functions in C]: 
-[Pointers in C]: 
+["Hello World!" in C]: https://www.hackerrank.com/challenges/hello-world-c/problem
+[Playing With Characters]: https://www.hackerrank.com/challenges/playing-with-characters/problem
+[Sum and Difference of Two Numbers]: https://www.hackerrank.com/challenges/sum-numbers-c/problem
+[Functions in C]: https://www.hackerrank.com/challenges/functions-in-c/problem
+[Pointers in C]: https://www.hackerrank.com/challenges/pointer-in-c/problem
