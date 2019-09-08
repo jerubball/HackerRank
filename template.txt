@@ -36,7 +36,7 @@ package
 
 
 
-/**
+/*
  * HackerRank _ _ #
  * url
  * Author: Hasol
@@ -57,10 +57,10 @@ package
 
 
 
-/**
+/*!
  * HackerRank _ _ #
  * url
- * @author Hasol
+ * \author Hasol
  */
 
 
