@@ -8,6 +8,6 @@
 | 4  | [.c](.c)                                       | [Structuring the Document]         | Hard       | 60        |
 
 [Boxes through a Tunnel]: https://www.hackerrank.com/challenges/too-high-boxes/problem
-[Small Triangles, Large Triangles]: 
-[Post Transition]: 
-[Structuring the Document]: 
+[Small Triangles, Large Triangles]: https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem
+[Post Transition]: https://www.hackerrank.com/challenges/post-transition/problem
+[Structuring the Document]: https://www.hackerrank.com/challenges/structuring-the-document/problem
