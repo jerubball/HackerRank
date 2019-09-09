@@ -13,6 +13,11 @@ int test_implementations_by_sending_three_elements ();
 int test_implementations_by_sending_five_elements ();
 int test_implementations_by_sending_ten_elements ();
 
+/*
+ * HackerRank C Functions 5
+ * https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
+ * Author: Hasol
+ */
 int main ()
 {
     int number_of_test_cases;
