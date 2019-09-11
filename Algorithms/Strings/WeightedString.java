@@ -1,5 +1,4 @@
-package Algorithms.Strings;
-import java.io.*;
+package Algorithms.Strings;import java.io.*;
 import java.math.*;
 import java.security.*;
 import java.text.*;
@@ -11,18 +10,17 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/weighted-uniform-string/problem
  * @author Hasol
  */
-public class WeightedString {
+public class Solution {
     // Complete the weightedUniformStrings function below.
     static String[] weightedUniformStrings(String s, int[] queries) {
-        ArrayList<Integer> list = new ArrayList<>(s.length());
+        HashSet<Integer> list = new HashSet<>(s.length());
         char prev = ' ';
+        int last = 0;
         for (char c: s.toCharArray())
             if (c == prev)
-                list.add(list.get(list.size()-1) + weightedChar(c));
-            else {
-                list.add(weightedChar(c));
-                prev = c;
-            }
+                list.add(last += weightedChar(c));
+            else
+                list.add(last = weightedChar(prev = c));
         String[] result = new String[queries.length];
         for (int i=0; i<queries.length; i++)
             if (list.contains(queries[i]))
