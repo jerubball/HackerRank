@@ -8,7 +8,6 @@ struct triangle
 	int b;
 	int c;
 };
-
 typedef struct triangle triangle;
 
 double area_of_triangle (triangle t);
