@@ -7,7 +7,7 @@
 | 3  | [arraysort.c](arraysort.c)     | [Sorting Array of Strings] | Hard       | 40        |
 | 4  | [permutation.c](permutation.c) | [Permutations of Strings]  | Medium     | 40        |
 | 5  | [variadic.c](variadic.c)       | [Variadic functions in C]  | Medium     | 50        |
-| 6  | [document.c](document.c)       | [Querying the Document]    | Hard       | 60        |
+| 6  | [document1.c](document1.c)     | [Querying the Document]    | Hard       | 60        |
 
 [Calculate the Nth term]: https://www.hackerrank.com/challenges/recursion-in-c/problem
 [Students Marks Sum]: https://www.hackerrank.com/challenges/students-marks-sum/problem
