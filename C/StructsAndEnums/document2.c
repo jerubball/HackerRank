@@ -132,7 +132,7 @@ struct word kth_word_in_mth_sentence_of_nth_paragraph (struct document Doc, int 
 }
 
 struct sentence kth_sentence_in_mth_paragraph (struct document Doc, int k, int m)
-{ 
+{
     return Doc.data[m - 1].data[k - 1];
 }
 
@@ -176,7 +176,7 @@ void print_document (struct document doc)
 }
 
 char* get_input_text ()
-{	
+{
     int paragraph_count;
     scanf ("%d", &paragraph_count);
 
