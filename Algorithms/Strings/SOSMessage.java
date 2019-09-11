@@ -15,8 +15,8 @@ public class SOSMessage {
     // Complete the marsExploration function below.
     static int marsExploration(String s) {
         int count = 0;
-        for (int i = 0; i < s.length(); i++)
-            if ((i % 3 == 1 && s.charAt(i) != 'O') || (i % 3 != 1 && s.charAt(i) != 'S'))
+        for (int i=0; i<s.length(); i++)
+            if ((i%3 == 1 && s.charAt(i) != 'O') || (i%3 != 1 && s.charAt(i) != 'S'))
                 count++;
         return count;
     }
