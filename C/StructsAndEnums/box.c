@@ -9,7 +9,6 @@ struct box
     int width;
     int height;
 };
-
 typedef struct box box;
 
 int get_volume (box b);
