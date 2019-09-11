@@ -43,7 +43,6 @@ int main ()
     return 0;
 }
 
-
 int sum (int count, ...)
 {
     va_list vargs;
