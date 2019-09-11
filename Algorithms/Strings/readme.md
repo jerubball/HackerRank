@@ -11,7 +11,7 @@
 | 7  | [ContainsText.java](ContainsText.java)                               | [HackerRank in a String!]       | Easy       | 20        |
 | 8  | [Pangram.java](Pangram.java)                                         | [Pangrams]                      | Easy       | 20        |
 | 9  | [WeightedString.java](WeightedString.java)                           | [Weighted Uniform Strings]      | Easy       | 20        |
-| 10 | [.java](.java)                                       | [Separate the Numbers]          | Easy       | 20        |
+| 10 | [BeautifulNumber.java](BeautifulNumber.java)                         | [Separate the Numbers]          | Easy       | 20        |
 | 11 | [.java](.java)                                       | [Funny String]                  | Easy       | 25        |
 | 12 | [.java](.java)                                       | [Gemstones]                     | Easy       | 20        |
 | 13 | [.java](.java)                                       | [Alternating Characters]        | Easy       | 20        |
