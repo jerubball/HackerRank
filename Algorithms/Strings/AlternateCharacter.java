@@ -20,9 +20,8 @@ public class AlternateCharacter {
     static int alternate(String s) {
         int max = 0;
         ArrayList<String> combo = getCombos(getUniqueChars(s));
-        for (String c: combo)
-        {
-            String st = s.replaceAll("[^" + c + "]", "");
+        for (String c: combo) {
+            String st = s.replaceAll("[^"+c+"]", "");
             if (!st.matches("^.*(\\w)\\1.*$") && st.length() > max)
                 max = st.length();
         }
@@ -35,12 +34,12 @@ public class AlternateCharacter {
         return set;
     }
     static ArrayList<String> getCombos(HashSet<Character> set) {
-        ArrayList<String> list = new ArrayList<>(set.size() * set.size());
+        ArrayList<String> list = new ArrayList<>(set.size()*set.size());
         Character[] array = new Character[set.size()];
         array = set.toArray(array);
-        for (int i = 0; i < set.size() - 1; i++)
-            for (int j = i + 1; j < set.size(); j++)
-                list.add("" + array[i] + array[j]);
+        for (int i=0; i<set.size()-1; i++)
+            for (int j=i+1; j<set.size(); j++)
+                list.add(""+array[i]+array[j]);
         return list;
     }
     public static void main(String[] args) throws IOException {
