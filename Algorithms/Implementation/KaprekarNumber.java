@@ -20,7 +20,7 @@ public class KaprekarNumber {
             int k = (int)Math.log10(j) - (int)Math.log10(i);
             String s = Long.toString(j);
             int l = Integer.parseInt(s.substring(k));
-            l = k == 0 ? l : l+Integer.parseInt(s.substring(0, k));
+            l = k == 0 ? l : l+Integer.parseInt(s.substring(0,k));
             if (i == l)
                 a.add(i);
         }
