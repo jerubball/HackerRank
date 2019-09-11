@@ -10,6 +10,7 @@ char* kth_word_in_mth_sentence_of_nth_paragraph (char**** document, int k, int m
 char** kth_sentence_in_mth_paragraph (char**** document, int k, int m);
 char*** kth_paragraph (char**** document, int k);
 char**** get_document (char* text);
+char**** get_document_1 (char* text);
 char* get_input_text ();
 void print_word (char* word);
 void print_sentence (char** sentence);
@@ -129,6 +130,69 @@ char**** get_document (char* text)
         }
     }
     return raw_word;
+}
+
+
+char**** get_document_1 (char* text)
+{
+    char para_delim[] = "\n";
+    char sent_delim[] = ".";
+    char word_delim[] = " ";
+
+    int para_len = 0;
+    char* raw_para[MAX_PARAGRAPHS];
+    // convert each paragraph to string
+    char* para = strtok (text, para_delim);
+    while (para != NULL)
+    {
+        raw_para[para_len++] = para;
+        para = strtok (NULL, para_delim);
+    }
+
+    int sent_len[para_len];
+    char** raw_sent[para_len];
+    // for each paragraph
+    for (int i = 0; i < para_len; i++)
+    {
+        sent_len[i] = 0;
+        char** raw_sent_i = NULL;
+        // convert each sentence to string
+        char* sent = strtok (raw_para[i], sent_delim);
+        while (sent != NULL)
+        {
+            raw_sent_i = realloc (raw_sent_i, (sent_len[i] + 1) * sizeof (char*));
+            raw_sent_i[sent_len[i]++] = sent;
+            sent = strtok (NULL, sent_delim);
+        }
+        raw_sent[i] = raw_sent_i;
+    }
+
+    int* word_len[para_len];
+    char*** raw_word[para_len];
+    for (int i = 0; i < para_len; i++)
+    {
+        int word_len_i[sent_len[i]];
+        char** raw_word_i[sent_len[i]];
+        // for each sentence
+        for (int j = 0; j < sent_len[i]; j++)
+        {
+            word_len_i[j] = 0;
+            char** raw_word_ij = NULL;
+            // convert each word to string
+            char* word = strtok (raw_sent[i][j], word_delim);
+            while (word != NULL)
+            {
+                raw_word_ij = realloc (raw_word_ij, (word_len_i[j] + 1) * sizeof (char*));
+                raw_word_ij[word_len_i[j]++] = word;
+                word = strtok (NULL, word_delim);
+            }
+            raw_word_i[j] = raw_word_ij;
+        }
+        word_len[i] = word_len_i;
+        raw_word[i] = raw_word_i;
+    }
+    char**** document = raw_word;
+    return document;
 }
 
 char* get_input_text ()
