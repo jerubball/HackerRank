@@ -13,3 +13,4 @@ User Profile: [jerubball](https://www.hackerrank.com/jerubball)
 | 3  | Specialized Skills   | [Regex](Regex)                                | 7          | 47       |
 | 4  | Language Proficiency | [LinuxShell](LinuxShell)                      | 4          | 65       |
 | 5  | Specialized Skills   | [SQL](SQL)                                    | 6          | 58       |
+| 6  | Language Proficiency | [C](C)                                        | 5          | 25       |
