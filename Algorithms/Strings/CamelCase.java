@@ -11,7 +11,7 @@ import java.util.regex.*;
  * https://www.hackerrank.com/challenges/camelcase/problem
  * @author Hasol
  */
-public class Solution {
+public class CamelCase {
     // Complete the camelcase function below.
     static int camelcase(String s) {
         int count = 1;
