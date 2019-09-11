@@ -2,15 +2,15 @@
 
 | #  | File Name                                            | Title                           | Difficulty | Max Score |
 | -- | ---------------------------------------------------- | ------------------------------- | ---------- | --------- |
-| 1  | [.java](.java)                                       | [Super Reduced String]          | Easy       | 10        |
-| 2  | [.java](.java)                                       | [CamelCase]                     | Easy       | 15        |
-| 3  | [.java](.java)                                       | [Strong Password]               | Easy       | 15        |
-| 4  | [.java](.java)                                       | [Two Characters]                | Easy       | 20        |
-| 5  | [.java](.java)                                       | [Caesar Cipher]                 | Easy       | 15        |
-| 6  | [.java](.java)                                       | [Mars Exploration]              | Easy       | 15        |
-| 7  | [.java](.java)                                       | [HackerRank in a String!]       | Easy       | 20        |
-| 8  | [.java](.java)                                       | [Pangrams]                      | Easy       | 20        |
-| 9  | [.java](.java)                                       | [Weighted Uniform Strings]      | Easy       | 20        |
+| 1  | [SuperReducedString.java](SuperReducedString.java)                   | [Super Reduced String]          | Easy       | 10        |
+| 2  | [CamelCase.java](CamelCase.java)                                     | [CamelCase]                     | Easy       | 15        |
+| 3  | [PasswordCheck.java](PasswordCheck.java)                             | [Strong Password]               | Easy       | 15        |
+| 4  | [AlternateCharacter.java](AlternateCharacter.java)                   | [Two Characters]                | Easy       | 20        |
+| 5  | [CeasarCipher.java](CeasarCipher.java)                               | [Caesar Cipher]                 | Easy       | 15        |
+| 6  | [SOSMessage.java](SOSMessage.java)                                   | [Mars Exploration]              | Easy       | 15        |
+| 7  | [ContainsText.java](ContainsText.java)                               | [HackerRank in a String!]       | Easy       | 20        |
+| 8  | [Pangram.java](Pangram.java)                                         | [Pangrams]                      | Easy       | 20        |
+| 9  | [WeightedString.java](WeightedString.java)                           | [Weighted Uniform Strings]      | Easy       | 20        |
 | 10 | [.java](.java)                                       | [Separate the Numbers]          | Easy       | 20        |
 | 11 | [.java](.java)                                       | [Funny String]                  | Easy       | 25        |
 | 12 | [.java](.java)                                       | [Gemstones]                     | Easy       | 20        |
