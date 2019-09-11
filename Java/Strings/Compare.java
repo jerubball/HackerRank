@@ -15,7 +15,7 @@ public class Compare {
         String largest = "";
         String[] str = new String[s.length()-k+1];
         for (int i=0; i<str.length; i++)
-            str[i] = s.substring(i, i+k);
+            str[i] = s.substring(i,i+k);
         Arrays.sort(str);
         smallest = str[0];
         largest = str[str.length-1];
