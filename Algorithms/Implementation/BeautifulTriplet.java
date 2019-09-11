@@ -14,7 +14,7 @@ import java.util.regex.*;
 public class BeautifulTriplet {
     // Complete the beautifulTriplets function below.
     static int beautifulTriplets(int d, int[] arr) {
-        int[] diff = new int[arr.length - 1];
+        int[] diff = new int[arr.length-1];
         for (int i=0; i<diff.length; i++)
             // compute difference of adjacent element
             diff[i] = arr[i+1] - arr[i];
