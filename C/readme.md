@@ -2,8 +2,8 @@
 
 | #  | Subdomain                                    | Problems |
 | -- | -------------------------------------------- | -------- |
-| 1  | [Introduction](Introduction)                 |          |
-| 2  | [ConditionalsAndLoops](ConditionalsAndLoops) |          |
-| 3  | [ArraysAndStrings](ArraysAndStrings)         |          |
-| 4  | [Functions](Functions)                       |          |
-| 5  | [StructsAndEnums](StructsAndEnums)           |          |
+| 1  | [Introduction](Introduction)                 | 5        |
+| 2  | [ConditionalsAndLoops](ConditionalsAndLoops) | 5        |
+| 3  | [ArraysAndStrings](ArraysAndStrings)         | 5        |
+| 4  | [Functions](Functions)                       | 6        |
+| 5  | [StructsAndEnums](StructsAndEnums)           | 4        |
