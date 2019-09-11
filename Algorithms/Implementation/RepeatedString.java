@@ -16,7 +16,7 @@ public class RepeatedString {
     static long repeatedString(String s, long n) {
         int a = countOccurrences(s, letter), r = (int)(n%s.length());
         long c = n/s.length();
-        return c*a + countOccurrences(s.substring(0, r), letter);
+        return c*a + countOccurrences(s.substring(0,r), letter);
     }
     static int countOccurrences(String s, char c) {
         int a = 0;
