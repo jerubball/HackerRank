@@ -4,9 +4,9 @@
 
 struct triangle
 {
-	int a;
-	int b;
-	int c;
+    int a;
+    int b;
+    int c;
 };
 typedef struct triangle triangle;
 
@@ -51,16 +51,12 @@ int compare_triangle (triangle t1, triangle t2)
 void sort_by_area (triangle* tr, int n)
 {
     triangle t;
-	for (int i = 0; i < n; i++)
-    {
+    for (int i = 0; i < n; i++)
         for (int j = i + 1; j < n; j++)
-        {
             if (compare_triangle (tr[i], tr[j]) > 0)
             {
                 t = tr[i];
                 tr[i] = tr[j];
                 tr[j] = t;
             }
-        }
-    }
 }
