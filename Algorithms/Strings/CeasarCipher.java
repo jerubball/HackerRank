@@ -18,14 +18,14 @@ public class CeasarCipher {
         k %= ALPHABET;
         char[] arr = s.toCharArray();
         char c;
-        for (int i = 0; i < arr.length; i++)
+        for (int i=0; i<arr.length; i++)
             if (Character.isAlphabetic(arr[i])) {
                 if (Character.isUpperCase(arr[i]))
                     c = 'Z';
                 else
                     c = 'z';
                 arr[i] += k;
-                if (arr[i] > c)
+                if (arr[i]>c)
                     arr[i] -= ALPHABET;
             }
         return new String(arr);
