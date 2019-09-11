@@ -13,7 +13,7 @@ public class TimeConvert {
     // Complete the timeConversion function below.
     static String timeConversion(String s) {
         char a = s.charAt(s.length()-2);
-        int h = Integer.parseInt(s.substring(0, 2)) % 12;
+        int h = Integer.parseInt(s.substring(0,2)) % 12;
         String t = s.substring(2, s.length()-2);
         DecimalFormat f = new DecimalFormat("00");
         return a == 'A' ? f.format(h) + t : f.format(h+12) + t;
