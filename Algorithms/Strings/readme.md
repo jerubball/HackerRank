@@ -5,18 +5,18 @@
 | 1  | [SuperReducedString.java](SuperReducedString.java)                   | [Super Reduced String]          | Easy       | 10        |
 | 2  | [CamelCase.java](CamelCase.java)                                     | [CamelCase]                     | Easy       | 15        |
 | 3  | [PasswordCheck.java](PasswordCheck.java)                             | [Strong Password]               | Easy       | 15        |
-| 4  | [AlternateCharacter.java](AlternateCharacter.java)                   | [Two Characters]                | Easy       | 20        |
+| 4  | [AlternateCharacter1.java](AlternateCharacter1.java)                 | [Two Characters]                | Easy       | 20        |
 | 5  | [CeasarCipher.java](CeasarCipher.java)                               | [Caesar Cipher]                 | Easy       | 15        |
 | 6  | [SOSMessage.java](SOSMessage.java)                                   | [Mars Exploration]              | Easy       | 15        |
 | 7  | [ContainsText.java](ContainsText.java)                               | [HackerRank in a String!]       | Easy       | 20        |
 | 8  | [Pangram.java](Pangram.java)                                         | [Pangrams]                      | Easy       | 20        |
 | 9  | [WeightedString.java](WeightedString.java)                           | [Weighted Uniform Strings]      | Easy       | 20        |
 | 10 | [BeautifulNumber.java](BeautifulNumber.java)                         | [Separate the Numbers]          | Easy       | 20        |
-| 11 | [.java](.java)                                       | [Funny String]                  | Easy       | 25        |
-| 12 | [.java](.java)                                       | [Gemstones]                     | Easy       | 20        |
-| 13 | [.java](.java)                                       | [Alternating Characters]        | Easy       | 20        |
-| 14 | [.java](.java)                                       | [Beautiful Binary String]       | Easy       | 20        |
-| 15 | [.java](.java)                                       | [The Love-Letter Mystery]       | Easy       | 20        |
+| 11 | [FunnyString.java](FunnyString.java)                                 | [Funny String]                  | Easy       | 25        |
+| 12 | [Gemstones.java](Gemstones.java)                                     | [Gemstones]                     | Easy       | 20        |
+| 13 | [AlternateCharacter2.java](AlternateCharacter2.java)                 | [Alternating Characters]        | Easy       | 20        |
+| 14 | [BeautifulBinary.java](BeautifulBinary.java)                         | [Beautiful Binary String]       | Easy       | 20        |
+| 15 | [PalindromeLetter.java](PalindromeLetter.java)                       | [The Love-Letter Mystery]       | Easy       | 20        |
 | 16 | [.java](.java)                                       | [Determining DNA Health]        | Hard       | 50        |
 | 17 | [.java](.java)                                       | [Palindrome Index]              | Easy       | 25        |
 | 18 | [.java](.java)                                       | [Anagram]                       | Easy       | 25        |
