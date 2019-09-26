@@ -1,4 +1,4 @@
-//package Algorithms.Strings;
+package Algorithms.Strings;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -53,7 +53,7 @@ public class GeneHealth {
         // always close
         scanner.close();
         // execute commands
-        new Solution7().run();
+        new Solution8().run();
     }
     /** Container class for DNA and gene range */
     static class DNAitem {
@@ -412,6 +412,72 @@ public class GeneHealth {
                     map.put(genes[i], sub);
                 }
             return map;
+        }
+    }
+    /** Solution with global HashMap of ArrayList and multiple Threads. O(s*m*n*log(k)) efficiency?. 0.052s for input00. 7.275s for input02. */
+    static class Solution8 extends Solution {
+        static int[] range = null;
+        static HashMap<String,ArrayList<SimpleEntry<Integer,Integer>>> map = null;
+        static volatile long min, max;
+        static Thread[] threads;
+        void totalHealth() {
+            min = Long.MAX_VALUE;
+            max = Long.MIN_VALUE;
+            range = Utils.minmax(genes);
+            map = convert();
+            threads = new Thread[16];
+            for (int i=0; i<threads.length; i++)
+                threads[i] = new Thread(new Subtask(i));
+            for (Thread thread: threads)
+                thread.start();
+            for (Thread thread: threads)
+                try {
+                    thread.join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            System.out.println(min + " " + max);
+        }
+        static long computeHealth(DNAitem item) {
+            long total = 0;
+            for (int i=0; i<item.d.length(); i++)
+                for (int j=range[0]; j<=range[1] && i+j<=item.d.length(); j++) {
+                    ArrayList<SimpleEntry<Integer,Integer>> sub = map.get(item.d.substring(i,i+j));
+                    if (sub != null)
+                        for (int l = Utils.binSearchNext(sub, item.f); l < sub.size() && sub.get(l).getKey() <= item.l; l++)
+                            total += sub.get(l).getValue();
+                }
+            return total;
+        }
+        static HashMap<String,ArrayList<SimpleEntry<Integer,Integer>>> convert() {
+            HashMap<String,ArrayList<SimpleEntry<Integer,Integer>>> map = new HashMap<>(genes.length*2);
+            for (int i=0; i<genes.length; i++)
+                if (map.containsKey(genes[i]))
+                    map.get(genes[i]).add(new SimpleEntry<>(i, health[i]));
+                else {
+                    ArrayList<SimpleEntry<Integer,Integer>> sub = new ArrayList<>();
+                    sub.add(new SimpleEntry<>(i, health[i]));
+                    map.put(genes[i], sub);
+                }
+            return map;
+        }
+        static class Subtask implements Runnable {
+            final int index;
+            public Subtask(int i) {
+                index = i;
+            }
+            public void run() {
+                for (int i=index; i<items.size(); i+=threads.length) {
+                    DNAitem item = items.get(i);
+                    item.h = computeHealth(item);
+                    synchronized(Solution8.class) {
+                        if (item.h < min)
+                            min = item.h;
+                        if (item.h > max)
+                            max = item.h;
+                    }
+                }
+            }
         }
     }
 }
