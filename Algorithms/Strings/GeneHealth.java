@@ -22,10 +22,10 @@ public class GeneHealth {
     public static void main(String... args) throws IOException {
         // create scanner
         Scanner scanner = null;
-        if (args.length == 0)
-            scanner = new Scanner(System.in);
-        else
-            scanner = new Scanner(new File(args[0]));
+        //if (args.length == 0)
+        scanner = new Scanner(System.in);
+        //else
+        //    scanner = new Scanner(new File(args[0]));
         // parse gene inputs
         n = scanner.nextInt();
         genes = new String[n];
