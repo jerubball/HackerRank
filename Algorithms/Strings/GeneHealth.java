@@ -18,6 +18,7 @@ public class GeneHealth {
     static int[] health = null;
     static int n = 0, s = 0;
     static ArrayList<DNAitem> items = null;
+    public static final int ALPHABET = 26;
     // main method
     public static void main(String... args) throws IOException {
         // create scanner
@@ -52,7 +53,7 @@ public class GeneHealth {
     }
     // working solution
     static class Alternate {
-        public static final Comparator<Pair> compare = (o1, o2) -> (o1.index - o2.index);
+        public static final Comparator<Pair> COMPARE = (o1, o2) -> (o1.index - o2.index);
         static Node root;
         static int maxLen;
         public static void solve() {
@@ -85,7 +86,7 @@ public class GeneHealth {
             Node[] children;
             void add(String s, int index, int value) {
                 if (children == null)
-                    children = new Node[26];
+                    children = new Node[ALPHABET];
                 int c = s.charAt(0) - 'a';
                 Node child = children[c];
                 if (child == null)
@@ -106,12 +107,12 @@ public class GeneHealth {
                 if (child != null) {
                     if (child.values != null) {
                         if (child.pairs == null) {
-                            child.values.sort(compare);
+                            child.values.sort(COMPARE);
                             child.pairs = child.values.toArray(new Pair[child.values.size()]);
                         }
                         if (child.pairs.length > 10) {
-                            int start = Arrays.binarySearch(child.pairs, firstP, compare);
-                            int stop = Arrays.binarySearch(child.pairs, lastP, compare);
+                            int start = Arrays.binarySearch(child.pairs, firstP, COMPARE);
+                            int stop = Arrays.binarySearch(child.pairs, lastP, COMPARE);
                             if (start < 0)
                                 start = -start-1;
                             if (stop < 0)
@@ -160,7 +161,6 @@ public class GeneHealth {
     }
     /** Tree container class for gene information */
     static class GeneItem {
-        public static final int ALPHABET=26;
         public final char c;
         public final int level;
         private GeneItem[] children;
