@@ -17,7 +17,7 @@
 | 13 | [AlternateCharacter2.java](AlternateCharacter2.java)                 | [Alternating Characters]        | Easy       | 20        |
 | 14 | [BeautifulBinary.java](BeautifulBinary.java)                         | [Beautiful Binary String]       | Easy       | 20        |
 | 15 | [PalindromeLetter.java](PalindromeLetter.java)                       | [The Love-Letter Mystery]       | Easy       | 20        |
-| 16 | [.java](.java)                                       | [Determining DNA Health]        | Hard       | 50        |
+| 16 | [GeneHealth.java](GeneHealth.java)                                   | [Determining DNA Health]        | Hard       | 50        |
 | 17 | [.java](.java)                                       | [Palindrome Index]              | Easy       | 25        |
 | 18 | [.java](.java)                                       | [Anagram]                       | Easy       | 25        |
 | 19 | [.java](.java)                                       | [Making Anagrams]               | Easy       | 30        |
