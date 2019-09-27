@@ -18,12 +18,12 @@
 | 14 | [BeautifulBinary.java](BeautifulBinary.java)                         | [Beautiful Binary String]       | Easy       | 20        |
 | 15 | [PalindromeLetter.java](PalindromeLetter.java)                       | [The Love-Letter Mystery]       | Easy       | 20        |
 | 16 | [GeneHealth.java](GeneHealth.java)                                   | [Determining DNA Health]        | Hard       | 50        |
-| 17 | [.java](.java)                                       | [Palindrome Index]              | Easy       | 25        |
-| 18 | [.java](.java)                                       | [Anagram]                       | Easy       | 25        |
-| 19 | [.java](.java)                                       | [Making Anagrams]               | Easy       | 30        |
-| 20 | [.java](.java)                                       | [Game of Thrones - I]           | Easy       | 30        |
-| 21 | [.java](.java)                                       | [Two Strings]                   | Easy       | 25        |
-| 22 | [.java](.java)                                       | [String Construction]           | Easy       | 25        |
+| 17 | [PalindromeIndex.java](PalindromeIndex.java)                         | [Palindrome Index]              | Easy       | 25        |
+| 18 | [Anagram.java](Anagram.java)                                         | [Anagram]                       | Easy       | 25        |
+| 19 | [MakeAnagram.java](MakeAnagram.java)                                 | [Making Anagrams]               | Easy       | 30        |
+| 20 | [PalindromeAnagram.java](PalindromeAnagram.java)                     | [Game of Thrones - I]           | Easy       | 30        |
+| 21 | [TwoStrings.java](TwoStrings.java)                                   | [Two Strings]                   | Easy       | 25        |
+| 22 | [MakeString.java](MakeString.java)                                   | [String Construction]           | Easy       | 25        |
 | 23 | [.java](.java)                                       | [Sherlock and the Valid String] | Medium     | 35        |
 | 24 | [.java](.java)                                       | [Highest Value Palindrome]      | Medium     | 30        |
 | 25 | [.java](.java)                                       | [Maximum Palindromes]           | Medium     | 40        |
