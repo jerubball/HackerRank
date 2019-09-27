@@ -1,4 +1,4 @@
-## Table of Contents for _/[]()
+## Table of Contents for Data Structures/[Multiple Choice](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=multiple-choice)
 
 | #  | File Name | Title                   | Difficulty               | Max Score |
 | -- | --------- | ----------------------- | ------------------------ | --------- |
