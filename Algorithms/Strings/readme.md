@@ -24,7 +24,7 @@
 | 20 | [PalindromeAnagram.java](PalindromeAnagram.java)                     | [Game of Thrones - I]           | Easy       | 30        |
 | 21 | [TwoStrings.java](TwoStrings.java)                                   | [Two Strings]                   | Easy       | 25        |
 | 22 | [MakeString.java](MakeString.java)                                   | [String Construction]           | Easy       | 25        |
-| 23 | [.java](.java)                                       | [Sherlock and the Valid String] | Medium     | 35        |
+| 23 | [ValidString.java](ValidString.java)                                 | [Sherlock and the Valid String] | Medium     | 35        |
 | 24 | [.java](.java)                                       | [Highest Value Palindrome]      | Medium     | 30        |
 | 25 | [.java](.java)                                       | [Maximum Palindromes]           | Medium     | 40        |
 | 26 | [.java](.java)                                       | [Sherlock and Anagrams]         | Medium     | 50        |
