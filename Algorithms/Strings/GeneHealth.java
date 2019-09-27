@@ -47,7 +47,100 @@ public class GeneHealth {
         // always close
         scanner.close();
         // execute commands
-        new Solution10().run();
+        //new Solution10().run();
+        Alternate.solve();
+    }
+    // working solution
+    static class Alternate {
+        public static final Comparator<Pair> compare = (o1, o2) -> (o1.index - o2.index);
+        static Node root;
+        static int maxLen;
+        public static void solve() {
+            maxLen = Utils.minmax(genes)[1];
+            root = new Node();
+            for (int i=0; i<n; i++)
+                root.add(genes[i], i, health[i]);
+            long min = Long.MAX_VALUE, max = Long.MIN_VALUE;
+            for (DNAitem i: items) {
+                i.h = calculateHealth(i.f, i.l, i.d);
+                if (i.h < min)
+                    min = i.h;
+                if (i.h > max)
+                    max = i.h;
+            }
+            System.out.println(min + " " + max);
+        }
+        static long calculateHealth(int first, int last, String d) {
+            long result = 0;
+            Pair firstP = new Pair(first, 0);
+            Pair lastP = new Pair(last, 0);
+            char[] chars = d.toCharArray();
+            for (int i=0; i<d.length(); i++)
+                result += root.value(chars, i, firstP, lastP);
+            return result;
+        }
+        static class Node {
+            List<Pair> values;
+            Pair[] pairs;
+            Node[] children;
+            void add(String s, int index, int value) {
+                if (children == null)
+                    children = new Node[26];
+                int c = s.charAt(0) - 'a';
+                Node child = children[c];
+                if (child == null)
+                    children[c] = child = new Node();
+                if (s.length() == 1) {
+                    if (child.values == null)
+                        child.values = new ArrayList<>();
+                    child.values.add(new Pair(index, value));
+                } else
+                    child.add(s.substring(1), index, value);
+            }
+            long value(char[] s, int index, Pair firstP, Pair lastP) {
+                if (children == null || s.length <= index)
+                    return 0;
+                int c = s[index] - 'a';
+                Node child = children[c];
+                long result = 0;
+                if (child != null) {
+                    if (child.values != null) {
+                        if (child.pairs == null) {
+                            child.values.sort(compare);
+                            child.pairs = child.values.toArray(new Pair[child.values.size()]);
+                        }
+                        if (child.pairs.length > 10) {
+                            int start = Arrays.binarySearch(child.pairs, firstP, compare);
+                            int stop = Arrays.binarySearch(child.pairs, lastP, compare);
+                            if (start < 0)
+                                start = -start-1;
+                            if (stop < 0)
+                                stop = -stop+1;
+                            stop = Math.min(stop, child.pairs.length-1);
+                            for (int i=Math.max(0, start); i<=stop; i++) {
+                                Pair value = child.pairs[i];
+                                if (value.index >= firstP.index && value.index <= lastP.index)
+                                    result += value.value;
+                            }
+                        } else
+                            for (Pair value : child.pairs)
+                                if (value.index >= firstP.index && value.index <= lastP.index)
+                                    result += value.value;
+                    }
+                    if (s.length > ++index)
+                        result += child.value(s, index, firstP, lastP);
+                }
+                return result;
+            }
+        }
+        static class Pair {
+            int index;
+            int value;
+            public Pair(int index, int value) {
+                this.index = index;
+                this.value = value;
+            }
+        }
     }
     /** Container class for DNA and gene range */
     static class DNAitem {
